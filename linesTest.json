@@ -13,6 +13,13 @@
       "route": "Guiniguada - Puerto (por Tomás Morales per)",
       "color": "ColorBlue1",
       "stops": [3,4]
+    },
+    {
+      "id": "3",
+      "number": "3",
+      "route": "Guiniguada)",
+      "color": "ColorBlue1",
+      "stops": [3,4]
     }
   ]
 }
