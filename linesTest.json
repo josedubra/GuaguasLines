@@ -1,0 +1,14 @@
+[
+  {
+    "id": "1"
+    "route": "Teatro - Puerto",
+    "color": "ColorRed",
+    "stops": [1,2]
+  },
+  {
+    "id": "2"
+    "route": "Guiniguada - Puerto (por Tomás Morales)",
+    "color": "ColorBlue1",
+    "stops": [3,4]
+  }
+]
