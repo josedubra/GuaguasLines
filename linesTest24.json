@@ -37,7 +37,13 @@
       "summerTimetable": false,
       "summerTimeTableNotice": "",
       "summerTimeTableBody": "",
-      "timeTables": 1
+      "timeTables": 1,
+      "variantLegends": {
+        "A": "Ruta principal",
+        "B": "No para en la parada 2",
+        "C": "Ruta extendida",
+        "D": "Servicio especial"
+      }
     },
     {
       "id": "2",
@@ -76,7 +82,13 @@
       "summerTimetable": false,
       "summerTimeTableNotice": "",
       "summerTimeTableBody": "",
-      "timeTables": 1
+      "timeTables": 1,
+      "variantLegends": {
+        "A": "Ruta principal",
+        "B": "No para en la parada 2",
+        "C": "Ruta extendida",
+        "D": "Servicio especial"
+      }
     },
     {
       "id": "6",
@@ -115,7 +127,13 @@
       "summerTimetable": false,
       "summerTimeTableNotice": "",
       "summerTimeTableBody": "",
-      "timeTables": 1
+      "timeTables": 1,
+      "variantLegends": {
+        "A": "Ruta principal",
+        "B": "No para en la parada 2",
+        "C": "Ruta extendida",
+        "D": "Servicio especial"
+      }
     },
     {
       "id": "7",
@@ -154,7 +172,13 @@
       "summerTimetable": false,
       "summerTimeTableNotice": "",
       "summerTimeTableBody": "",
-      "timeTables": 1
+      "timeTables": 1,
+      "variantLegends": {
+        "A": "Ruta principal",
+        "B": "No para en la parada 2",
+        "C": "Ruta extendida",
+        "D": "Servicio especial"
+      }
     },
     {
       "id": "8",
@@ -193,7 +217,13 @@
       "summerTimetable": false,
       "summerTimeTableNotice": "",
       "summerTimeTableBody": "",
-      "timeTables": 1
+      "timeTables": 1,
+      "variantLegends": {
+        "A": "Ruta principal",
+        "B": "No para en la parada 2",
+        "C": "Ruta extendida",
+        "D": "Servicio especial"
+      }
     },
     {
       "id": "9",
@@ -232,7 +262,13 @@
       "summerTimetable": false,
       "summerTimeTableNotice": "",
       "summerTimeTableBody": "",
-      "timeTables": 1
+      "timeTables": 1,
+      "variantLegends": {
+        "A": "Ruta principal",
+        "B": "No para en la parada 2",
+        "C": "Ruta extendida",
+        "D": "Servicio especial"
+      }
     },
     {
       "id": "10",
@@ -271,7 +307,13 @@
       "summerTimetable": false,
       "summerTimeTableNotice": "",
       "summerTimeTableBody": "",
-      "timeTables": 1
+      "timeTables": 1,
+      "variantLegends": {
+        "A": "Ruta principal",
+        "B": "No para en la parada 2",
+        "C": "Ruta extendida",
+        "D": "Servicio especial"
+      }
     },
     {
       "id": "11",
@@ -310,7 +352,13 @@
       "summerTimetable": false,
       "summerTimeTableNotice": "",
       "summerTimeTableBody": "",
-      "timeTables": 1
+      "timeTables": 1,
+      "variantLegends": {
+        "A": "Ruta principal",
+        "B": "No para en la parada 2",
+        "C": "Ruta extendida",
+        "D": "Servicio especial"
+      }
     },
     {
       "id": "12",
@@ -349,7 +397,13 @@
       "summerTimetable": false,
       "summerTimeTableNotice": "",
       "summerTimeTableBody": "",
-      "timeTables": 1
+      "timeTables": 1,
+      "variantLegends": {
+        "A": "Ruta principal",
+        "B": "No para en la parada 2",
+        "C": "Ruta extendida",
+        "D": "Servicio especial"
+      }
     },
     {
       "id": "13",
@@ -388,7 +442,13 @@
       "summerTimetable": false,
       "summerTimeTableNotice": "",
       "summerTimeTableBody": "",
-      "timeTables": 1
+      "timeTables": 1,
+      "variantLegends": {
+        "A": "Ruta principal",
+        "B": "No para en la parada 2",
+        "C": "Ruta extendida",
+        "D": "Servicio especial"
+      }
     },
     {
       "id": "17",
@@ -427,7 +487,13 @@
       "summerTimetable": false,
       "summerTimeTableNotice": "",
       "summerTimeTableBody": "",
-      "timeTables": 1
+      "timeTables": 1,
+      "variantLegends": {
+        "A": "Ruta principal",
+        "B": "No para en la parada 2",
+        "C": "Ruta extendida",
+        "D": "Servicio especial"
+      }
     },
     {
       "id": "18",
@@ -466,7 +532,13 @@
       "summerTimetable": false,
       "summerTimeTableNotice": "",
       "summerTimeTableBody": "",
-      "timeTables": 1
+      "timeTables": 1,
+      "variantLegends": {
+        "A": "Ruta principal",
+        "B": "No para en la parada 2",
+        "C": "Ruta extendida",
+        "D": "Servicio especial"
+      }
     },
     {
       "id": "19",
@@ -505,7 +577,13 @@
       "summerTimetable": false,
       "summerTimeTableNotice": "",
       "summerTimeTableBody": "",
-      "timeTables": 1
+      "timeTables": 1,
+      "variantLegends": {
+        "A": "Ruta principal",
+        "B": "No para en la parada 2",
+        "C": "Ruta extendida",
+        "D": "Servicio especial"
+      }
     },
     {
       "id": "20",
@@ -544,7 +622,13 @@
       "summerTimetable": false,
       "summerTimeTableNotice": "",
       "summerTimeTableBody": "",
-      "timeTables": 1
+      "timeTables": 1,
+      "variantLegends": {
+        "A": "Ruta principal",
+        "B": "No para en la parada 2",
+        "C": "Ruta extendida",
+        "D": "Servicio especial"
+      }
     },
     {
       "id": "21",
@@ -583,7 +667,13 @@
       "summerTimetable": false,
       "summerTimeTableNotice": "",
       "summerTimeTableBody": "",
-      "timeTables": 2
+      "timeTables": 2,
+      "variantLegends": {
+        "A": "Ruta principal",
+        "B": "No para en la parada 2",
+        "C": "Ruta extendida",
+        "D": "Servicio especial"
+      }
     },
     {
       "id": "22",
@@ -622,7 +712,13 @@
       "summerTimetable": false,
       "summerTimeTableNotice": "",
       "summerTimeTableBody": "",
-      "timeTables": 1
+      "timeTables": 1,
+      "variantLegends": {
+        "A": "Ruta principal",
+        "B": "No para en la parada 2",
+        "C": "Ruta extendida",
+        "D": "Servicio especial"
+      }
     },
     {
       "id": "24",
@@ -661,7 +757,13 @@
       "summerTimetable": false,
       "summerTimeTableNotice": "",
       "summerTimeTableBody": "",
-      "timeTables": 1
+      "timeTables": 1,
+      "variantLegends": {
+        "A": "Ruta principal",
+        "B": "No para en la parada 2",
+        "C": "Ruta extendida",
+        "D": "Servicio especial"
+      }
     },
     {
       "id": "25",
@@ -700,7 +802,13 @@
       "summerTimetable": false,
       "summerTimeTableNotice": "",
       "summerTimeTableBody": "",
-      "timeTables": 2
+      "timeTables": 2,
+      "variantLegends": {
+        "A": "Ruta principal",
+        "B": "No para en la parada 2",
+        "C": "Ruta extendida",
+        "D": "Servicio especial"
+      }
     },
     {
       "id": "26",
@@ -739,7 +847,13 @@
       "summerTimetable": false,
       "summerTimeTableNotice": "",
       "summerTimeTableBody": "",
-      "timeTables": 2
+      "timeTables": 2,
+      "variantLegends": {
+        "A": "Ruta principal",
+        "B": "No para en la parada 2",
+        "C": "Ruta extendida",
+        "D": "Servicio especial"
+      }
     },
     {
       "id": "32",
@@ -778,7 +892,13 @@
       "summerTimetable": false,
       "summerTimeTableNotice": "",
       "summerTimeTableBody": "",
-      "timeTables": 2
+      "timeTables": 2,
+      "variantLegends": {
+        "A": "Ruta principal",
+        "B": "No para en la parada 2",
+        "C": "Ruta extendida",
+        "D": "Servicio especial"
+      }
     },
     {
       "id": "33",
@@ -817,7 +937,13 @@
       "summerTimetable": false,
       "summerTimeTableNotice": "",
       "summerTimeTableBody": "",
-      "timeTables": 1
+      "timeTables": 1,
+      "variantLegends": {
+        "A": "Ruta principal",
+        "B": "No para en la parada 2",
+        "C": "Ruta extendida",
+        "D": "Servicio especial"
+      }
     },
     {
       "id": "35",
@@ -856,7 +982,13 @@
       "summerTimetable": false,
       "summerTimeTableNotice": "",
       "summerTimeTableBody": "",
-      "timeTables": 1
+      "timeTables": 1,
+      "variantLegends": {
+        "A": "Ruta principal",
+        "B": "No para en la parada 2",
+        "C": "Ruta extendida",
+        "D": "Servicio especial"
+      }
     },
     {
       "id": "41",
@@ -895,7 +1027,13 @@
       "summerTimetable": false,
       "summerTimeTableNotice": "",
       "summerTimeTableBody": "",
-      "timeTables": 1
+      "timeTables": 1,
+      "variantLegends": {
+        "A": "Ruta principal",
+        "B": "No para en la parada 2",
+        "C": "Ruta extendida",
+        "D": "Servicio especial"
+      }
     },
     {
       "id": "44",
@@ -934,7 +1072,13 @@
       "summerTimetable": false,
       "summerTimeTableNotice": "",
       "summerTimeTableBody": "",
-      "timeTables": 1
+      "timeTables": 1,
+      "variantLegends": {
+        "A": "Ruta principal",
+        "B": "No para en la parada 2",
+        "C": "Ruta extendida",
+        "D": "Servicio especial"
+      }
     },
     {
       "id": "45",
@@ -973,7 +1117,13 @@
       "summerTimetable": false,
       "summerTimeTableNotice": "",
       "summerTimeTableBody": "",
-      "timeTables": 2
+      "timeTables": 2,
+      "variantLegends": {
+        "A": "Ruta principal",
+        "B": "No para en la parada 2",
+        "C": "Ruta extendida",
+        "D": "Servicio especial"
+      }
     },
     {
       "id": "46",
@@ -1057,7 +1207,13 @@
       "summerTimetable": false,
       "summerTimeTableNotice": "",
       "summerTimeTableBody": "",
-      "timeTables": 4
+      "timeTables": 4,
+      "variantLegends": {
+        "A": "Ruta principal",
+        "B": "No para en la parada 2",
+        "C": "Ruta extendida",
+        "D": "Servicio especial"
+      }
     },
     {
       "id": "4",
@@ -1096,7 +1252,13 @@
       "summerTimetable": false,
       "summerTimeTableNotice": "",
       "summerTimeTableBody": "",
-      "timeTables": 1
+      "timeTables": 1,
+      "variantLegends": {
+        "A": "Ruta principal",
+        "B": "No para en la parada 2",
+        "C": "Ruta extendida",
+        "D": "Servicio especial"
+      }
     },
     {
       "id": "48",
@@ -1135,7 +1297,13 @@
       "summerTimetable": false,
       "summerTimeTableNotice": "",
       "summerTimeTableBody": "",
-      "timeTables": 2
+      "timeTables": 2,
+      "variantLegends": {
+        "A": "Ruta principal",
+        "B": "No para en la parada 2",
+        "C": "Ruta extendida",
+        "D": "Servicio especial"
+      }
     },
     {
       "id": "50",
@@ -1174,7 +1342,13 @@
       "summerTimetable": false,
       "summerTimeTableNotice": "",
       "summerTimeTableBody": "",
-      "timeTables": 2
+      "timeTables": 2,
+      "variantLegends": {
+        "A": "Ruta principal",
+        "B": "No para en la parada 2",
+        "C": "Ruta extendida",
+        "D": "Servicio especial"
+      }
     },
     {
       "id": "51",
@@ -1213,7 +1387,13 @@
       "summerTimetable": false,
       "summerTimeTableNotice": "",
       "summerTimeTableBody": "",
-      "timeTables": 1
+      "timeTables": 1,
+      "variantLegends": {
+        "A": "Ruta principal",
+        "B": "No para en la parada 2",
+        "C": "Ruta extendida",
+        "D": "Servicio especial"
+      }
     },
     {
       "id": "52",
@@ -1252,7 +1432,13 @@
       "summerTimetable": false,
       "summerTimeTableNotice": "",
       "summerTimeTableBody": "",
-      "timeTables": 1
+      "timeTables": 1,
+      "variantLegends": {
+        "A": "Ruta principal",
+        "B": "No para en la parada 2",
+        "C": "Ruta extendida",
+        "D": "Servicio especial"
+      }
     },
     {
       "id": "54",
@@ -1291,7 +1477,13 @@
       "summerTimetable": false,
       "summerTimeTableNotice": "",
       "summerTimeTableBody": "",
-      "timeTables": 1
+      "timeTables": 1,
+      "variantLegends": {
+        "A": "Ruta principal",
+        "B": "No para en la parada 2",
+        "C": "Ruta extendida",
+        "D": "Servicio especial"
+      }
     },
     {
       "id": "55",
@@ -1330,7 +1522,13 @@
       "summerTimetable": false,
       "summerTimeTableNotice": "",
       "summerTimeTableBody": "",
-      "timeTables": 2
+      "timeTables": 2,
+      "variantLegends": {
+        "A": "Ruta principal",
+        "B": "No para en la parada 2",
+        "C": "Ruta extendida",
+        "D": "Servicio especial"
+      }
     },
     {
       "id": "64",
@@ -1369,7 +1567,13 @@
       "summerTimetable": false,
       "summerTimeTableNotice": "",
       "summerTimeTableBody": "",
-      "timeTables": 1
+      "timeTables": 1,
+      "variantLegends": {
+        "A": "Ruta principal",
+        "B": "No para en la parada 2",
+        "C": "Ruta extendida",
+        "D": "Servicio especial"
+      }
     },
     {
       "id": "70",
@@ -1408,7 +1612,13 @@
       "summerTimetable": false,
       "summerTimeTableNotice": "",
       "summerTimeTableBody": "",
-      "timeTables": 1
+      "timeTables": 1,
+      "variantLegends": {
+        "A": "Ruta principal",
+        "B": "No para en la parada 2",
+        "C": "Ruta extendida",
+        "D": "Servicio especial"
+      }
     },
     {
       "id": "80",
@@ -1447,7 +1657,13 @@
       "summerTimetable": false,
       "summerTimeTableNotice": "",
       "summerTimeTableBody": "",
-      "timeTables": 2
+      "timeTables": 2,
+      "variantLegends": {
+        "A": "Ruta principal",
+        "B": "No para en la parada 2",
+        "C": "Ruta extendida",
+        "D": "Servicio especial"
+      }
     },
     {
       "id": "81",
@@ -1486,7 +1702,13 @@
       "summerTimetable": false,
       "summerTimeTableNotice": "",
       "summerTimeTableBody": "",
-      "timeTables": 1
+      "timeTables": 1,
+      "variantLegends": {
+        "A": "Ruta principal",
+        "B": "No para en la parada 2",
+        "C": "Ruta extendida",
+        "D": "Servicio especial"
+      }
     },
     {
       "id": "82",
@@ -1525,7 +1747,13 @@
       "summerTimetable": false,
       "summerTimeTableNotice": "",
       "summerTimeTableBody": "",
-      "timeTables": 1
+      "timeTables": 1,
+      "variantLegends": {
+        "A": "Ruta principal",
+        "B": "No para en la parada 2",
+        "C": "Ruta extendida",
+        "D": "Servicio especial"
+      }
     },
     {
       "id": "84",
@@ -1564,7 +1792,13 @@
       "summerTimetable": false,
       "summerTimeTableNotice": "",
       "summerTimeTableBody": "",
-      "timeTables": 2
+      "timeTables": 2,
+      "variantLegends": {
+        "A": "Ruta principal",
+        "B": "No para en la parada 2",
+        "C": "Ruta extendida",
+        "D": "Servicio especial"
+      }
     },
     {
       "id": "91",
@@ -1603,7 +1837,13 @@
       "summerTimetable": false,
       "summerTimeTableNotice": "",
       "summerTimeTableBody": "",
-      "timeTables": 1
+      "timeTables": 1,
+      "variantLegends": {
+        "A": "Ruta principal",
+        "B": "No para en la parada 2",
+        "C": "Ruta extendida",
+        "D": "Servicio especial"
+      }
     },
     {
       "id": "61",
@@ -1642,7 +1882,13 @@
       "summerTimetable": false,
       "summerTimeTableNotice": "",
       "summerTimeTableBody": "",
-      "timeTables": 1
+      "timeTables": 1,
+      "variantLegends": {
+        "A": "Ruta principal",
+        "B": "No para en la parada 2",
+        "C": "Ruta extendida",
+        "D": "Servicio especial"
+      }
     },
     {
       "id": "62",
@@ -1681,7 +1927,13 @@
       "summerTimetable": false,
       "summerTimeTableNotice": "",
       "summerTimeTableBody": "",
-      "timeTables": 1
+      "timeTables": 1,
+      "variantLegends": {
+        "A": "Ruta principal",
+        "B": "No para en la parada 2",
+        "C": "Ruta extendida",
+        "D": "Servicio especial"
+      }
     },
     {
       "id": "63",
@@ -1720,7 +1972,13 @@
       "summerTimetable": false,
       "summerTimeTableNotice": "",
       "summerTimeTableBody": "",
-      "timeTables": 1
+      "timeTables": 1,
+      "variantLegends": {
+        "A": "Ruta principal",
+        "B": "No para en la parada 2",
+        "C": "Ruta extendida",
+        "D": "Servicio especial"
+      }
     }
   ]
 }
