@@ -778,7 +778,7 @@
       "summerTimeTableBody": "",
       "timeTables": 2,
       "variantLegendsRouteComponent0": {},
-      "variantLegendsRouteComponent1": {}
+      "variantLegendsRouteComponent1": { "A" : "Normal", "D" : "Origen en ctra. Lomo Blanco, frente 51"}
     },
     {
       "id": "32",
@@ -818,7 +818,7 @@
       "summerTimeTableNotice": "",
       "summerTimeTableBody": "",
       "timeTables": 2,
-      "variantLegendsRouteComponent0": {},
+      "variantLegendsRouteComponent0": {"A" : "Normal", "C" : "Por el Polvorín"},
       "variantLegendsRouteComponent1": {}
     },
     {
@@ -1023,8 +1023,8 @@
       "summerTimeTableNotice": "",
       "summerTimeTableBody": "",
       "timeTables": 2,
-      "variantLegendsRouteComponent0": {},
-      "variantLegendsRouteComponent1": {}
+      "variantLegendsRouteComponent0": {"A" : "Normal", "C" : "Por el Cardón"},
+      "variantLegendsRouteComponent1": {"A" : "Normal", "D" : "Por el Cardón"}
     },
     {
       "id": "46",
@@ -1187,8 +1187,8 @@
       "summerTimeTableNotice": "",
       "summerTimeTableBody": "",
       "timeTables": 2,
-      "variantLegendsRouteComponent0": {},
-      "variantLegendsRouteComponent1": {}
+      "variantLegendsRouteComponent0": {"A" : "Normal", "C" : "No circula por Siete Palmas"},
+      "variantLegendsRouteComponent1": {"A" : "Normal", "D" : "No circula por Siete Palmas"}
     },
     {
       "id": "50",
@@ -1229,7 +1229,7 @@
       "summerTimeTableBody": "",
       "timeTables": 2,
       "variantLegendsRouteComponent0": {},
-      "variantLegendsRouteComponent1": {}
+      "variantLegendsRouteComponent1": {"A" : "Normal", "D" : "No circula por Francisco Inglott Artiles"}
     },
     {
       "id": "51",
@@ -1392,8 +1392,8 @@
       "summerTimeTableNotice": "",
       "summerTimeTableBody": "",
       "timeTables": 2,
-      "variantLegendsRouteComponent0": {},
-      "variantLegendsRouteComponent1": {}
+      "variantLegendsRouteComponent0": {"A" : "Normal", "C" : "Final de trayecto en la iglesia de El Lasso"},
+      "variantLegendsRouteComponent1": {"A" : "Normal", "D" : "Origen en iglesia de El Lasso"}
     },
     {
       "id": "64",
@@ -1515,8 +1515,8 @@
       "summerTimeTableNotice": "",
       "summerTimeTableBody": "",
       "timeTables": 2,
-      "variantLegendsRouteComponent0": {},
-      "variantLegendsRouteComponent1": {}
+      "variantLegendsRouteComponent0": {"A" : "Normal", "C" : "Finaliza en la parada 353 Gobernador Marín Acuña, 50"},
+      "variantLegendsRouteComponent1": {"A" : "Normal", "D" : "Circula por Real del Castillo sin acceder a la urbanización San Francisco"}
     },
     {
       "id": "81",
@@ -1638,8 +1638,8 @@
       "summerTimeTableNotice": "",
       "summerTimeTableBody": "",
       "timeTables": 2,
-      "variantLegendsRouteComponent0": {},
-      "variantLegendsRouteComponent1": {}
+      "variantLegendsRouteComponent0": {"A" : "Normal", "C" : "Circula por Real del Castillo sin acceder a la urbanización San Francisco"},
+      "variantLegendsRouteComponent1": {"A" : "Normal", "D" : "Circula por Real del Castillo sin acceder a la urbanización San Francisco"}
     },
     {
       "id": "91",
