@@ -613,7 +613,7 @@
       "summerTimeTableNotice": "",
       "summerTimeTableBody": "",
       "timeTables": 2,
-      "variantLegendsRouteComponent0": {},
+      "variantLegendsRouteComponent0": {"A" : "Normal", "C" : "No entra en Hospital Dr. Negrín"},
       "variantLegendsRouteComponent1": {}
     },
     {
