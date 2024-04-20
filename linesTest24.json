@@ -38,7 +38,9 @@
       "summerTimeTableNotice": "",
       "summerTimeTableBody": "",
       "timeTables": 1,
-      "variantLegends": {}
+      "variantLegendsRouteComponent0": {},
+      "variantLegendsRouteComponent1": {}
+      
     },
     {
       "id": "2",
@@ -78,12 +80,8 @@
       "summerTimeTableNotice": "",
       "summerTimeTableBody": "",
       "timeTables": 1,
-      "variantLegends": {
-        "A": "Ruta principal",
-        "B": "No para en la parada 2",
-        "C": "Ruta extendida",
-        "D": "Servicio especial"
-      }
+      "variantLegendsRouteComponent0": {},
+      "variantLegendsRouteComponent1": {}
     },
     {
       "id": "6",
@@ -123,12 +121,8 @@
       "summerTimeTableNotice": "",
       "summerTimeTableBody": "",
       "timeTables": 1,
-      "variantLegends": {
-        "A": "Ruta principal",
-        "B": "No para en la parada 2",
-        "C": "Ruta extendida",
-        "D": "Servicio especial"
-      }
+      "variantLegendsRouteComponent0": {},
+      "variantLegendsRouteComponent1": {}
     },
     {
       "id": "7",
@@ -168,12 +162,8 @@
       "summerTimeTableNotice": "",
       "summerTimeTableBody": "",
       "timeTables": 1,
-      "variantLegends": {
-        "A": "Ruta principal",
-        "B": "No para en la parada 2",
-        "C": "Ruta extendida",
-        "D": "Servicio especial"
-      }
+      "variantLegendsRouteComponent0": {},
+      "variantLegendsRouteComponent1": {}
     },
     {
       "id": "8",
@@ -213,12 +203,8 @@
       "summerTimeTableNotice": "",
       "summerTimeTableBody": "",
       "timeTables": 1,
-      "variantLegends": {
-        "A": "Ruta principal",
-        "B": "No para en la parada 2",
-        "C": "Ruta extendida",
-        "D": "Servicio especial"
-      }
+      "variantLegendsRouteComponent0": {},
+      "variantLegendsRouteComponent1": {}
     },
     {
       "id": "9",
@@ -258,12 +244,8 @@
       "summerTimeTableNotice": "",
       "summerTimeTableBody": "",
       "timeTables": 1,
-      "variantLegends": {
-        "A": "Ruta principal",
-        "B": "No para en la parada 2",
-        "C": "Ruta extendida",
-        "D": "Servicio especial"
-      }
+      "variantLegendsRouteComponent0": {},
+      "variantLegendsRouteComponent1": {}
     },
     {
       "id": "10",
@@ -303,12 +285,8 @@
       "summerTimeTableNotice": "",
       "summerTimeTableBody": "",
       "timeTables": 1,
-      "variantLegends": {
-        "A": "Ruta principal",
-        "B": "No para en la parada 2",
-        "C": "Ruta extendida",
-        "D": "Servicio especial"
-      }
+      "variantLegendsRouteComponent0": {},
+      "variantLegendsRouteComponent1": {}
     },
     {
       "id": "11",
@@ -348,12 +326,8 @@
       "summerTimeTableNotice": "",
       "summerTimeTableBody": "",
       "timeTables": 1,
-      "variantLegends": {
-        "A": "Ruta principal",
-        "B": "No para en la parada 2",
-        "C": "Ruta extendida",
-        "D": "Servicio especial"
-      }
+      "variantLegendsRouteComponent0": {},
+      "variantLegendsRouteComponent1": {}
     },
     {
       "id": "12",
@@ -393,12 +367,8 @@
       "summerTimeTableNotice": "",
       "summerTimeTableBody": "",
       "timeTables": 1,
-      "variantLegends": {
-        "A": "Ruta principal",
-        "B": "No para en la parada 2",
-        "C": "Ruta extendida",
-        "D": "Servicio especial"
-      }
+      "variantLegendsRouteComponent0": {},
+      "variantLegendsRouteComponent1": {}
     },
     {
       "id": "13",
@@ -438,12 +408,8 @@
       "summerTimeTableNotice": "",
       "summerTimeTableBody": "",
       "timeTables": 1,
-      "variantLegends": {
-        "A": "Ruta principal",
-        "B": "No para en la parada 2",
-        "C": "Ruta extendida",
-        "D": "Servicio especial"
-      }
+      "variantLegendsRouteComponent0": {},
+      "variantLegendsRouteComponent1": {}
     },
     {
       "id": "17",
@@ -483,12 +449,8 @@
       "summerTimeTableNotice": "",
       "summerTimeTableBody": "",
       "timeTables": 1,
-      "variantLegends": {
-        "A": "Ruta principal",
-        "B": "No para en la parada 2",
-        "C": "Ruta extendida",
-        "D": "Servicio especial"
-      }
+      "variantLegendsRouteComponent0": {},
+      "variantLegendsRouteComponent1": {}
     },
     {
       "id": "18",
@@ -528,12 +490,8 @@
       "summerTimeTableNotice": "",
       "summerTimeTableBody": "",
       "timeTables": 1,
-      "variantLegends": {
-        "A": "Ruta principal",
-        "B": "No para en la parada 2",
-        "C": "Ruta extendida",
-        "D": "Servicio especial"
-      }
+      "variantLegendsRouteComponent0": {},
+      "variantLegendsRouteComponent1": {}
     },
     {
       "id": "19",
@@ -573,12 +531,8 @@
       "summerTimeTableNotice": "",
       "summerTimeTableBody": "",
       "timeTables": 1,
-      "variantLegends": {
-        "A": "Ruta principal",
-        "B": "No para en la parada 2",
-        "C": "Ruta extendida",
-        "D": "Servicio especial"
-      }
+      "variantLegendsRouteComponent0": {},
+      "variantLegendsRouteComponent1": {}
     },
     {
       "id": "20",
@@ -618,12 +572,8 @@
       "summerTimeTableNotice": "",
       "summerTimeTableBody": "",
       "timeTables": 1,
-      "variantLegends": {
-        "A": "Ruta principal",
-        "B": "No para en la parada 2",
-        "C": "Ruta extendida",
-        "D": "Servicio especial"
-      }
+      "variantLegendsRouteComponent0": {},
+      "variantLegendsRouteComponent1": {}
     },
     {
       "id": "21",
@@ -663,12 +613,8 @@
       "summerTimeTableNotice": "",
       "summerTimeTableBody": "",
       "timeTables": 2,
-      "variantLegends": {
-        "A": "Ruta principal",
-        "B": "No para en la parada 2",
-        "C": "Ruta extendida",
-        "D": "Servicio especial"
-      }
+      "variantLegendsRouteComponent0": {},
+      "variantLegendsRouteComponent1": {}
     },
     {
       "id": "22",
@@ -708,12 +654,8 @@
       "summerTimeTableNotice": "",
       "summerTimeTableBody": "",
       "timeTables": 1,
-      "variantLegends": {
-        "A": "Ruta principal",
-        "B": "No para en la parada 2",
-        "C": "Ruta extendida",
-        "D": "Servicio especial"
-      }
+      "variantLegendsRouteComponent0": {},
+      "variantLegendsRouteComponent1": {}
     },
     {
       "id": "24",
@@ -753,12 +695,8 @@
       "summerTimeTableNotice": "",
       "summerTimeTableBody": "",
       "timeTables": 1,
-      "variantLegends": {
-        "A": "Ruta principal",
-        "B": "No para en la parada 2",
-        "C": "Ruta extendida",
-        "D": "Servicio especial"
-      }
+      "variantLegendsRouteComponent0": {},
+      "variantLegendsRouteComponent1": {}
     },
     {
       "id": "25",
@@ -798,12 +736,8 @@
       "summerTimeTableNotice": "",
       "summerTimeTableBody": "",
       "timeTables": 2,
-      "variantLegends": {
-        "A": "Ruta principal",
-        "B": "No para en la parada 2",
-        "C": "Ruta extendida",
-        "D": "Servicio especial"
-      }
+      "variantLegendsRouteComponent0": {},
+      "variantLegendsRouteComponent1": {}
     },
     {
       "id": "26",
@@ -843,12 +777,8 @@
       "summerTimeTableNotice": "",
       "summerTimeTableBody": "",
       "timeTables": 2,
-      "variantLegends": {
-        "A": "Ruta principal",
-        "B": "No para en la parada 2",
-        "C": "Ruta extendida",
-        "D": "Servicio especial"
-      }
+      "variantLegendsRouteComponent0": {},
+      "variantLegendsRouteComponent1": {}
     },
     {
       "id": "32",
@@ -888,12 +818,8 @@
       "summerTimeTableNotice": "",
       "summerTimeTableBody": "",
       "timeTables": 2,
-      "variantLegends": {
-        "A": "Ruta principal",
-        "B": "No para en la parada 2",
-        "C": "Ruta extendida",
-        "D": "Servicio especial"
-      }
+      "variantLegendsRouteComponent0": {},
+      "variantLegendsRouteComponent1": {}
     },
     {
       "id": "33",
@@ -933,12 +859,8 @@
       "summerTimeTableNotice": "",
       "summerTimeTableBody": "",
       "timeTables": 1,
-      "variantLegends": {
-        "A": "Ruta principal",
-        "B": "No para en la parada 2",
-        "C": "Ruta extendida",
-        "D": "Servicio especial"
-      }
+      "variantLegendsRouteComponent0": {},
+      "variantLegendsRouteComponent1": {}
     },
     {
       "id": "35",
@@ -978,12 +900,8 @@
       "summerTimeTableNotice": "",
       "summerTimeTableBody": "",
       "timeTables": 1,
-      "variantLegends": {
-        "A": "Ruta principal",
-        "B": "No para en la parada 2",
-        "C": "Ruta extendida",
-        "D": "Servicio especial"
-      }
+      "variantLegendsRouteComponent0": {},
+      "variantLegendsRouteComponent1": {}
     },
     {
       "id": "41",
@@ -1023,12 +941,8 @@
       "summerTimeTableNotice": "",
       "summerTimeTableBody": "",
       "timeTables": 1,
-      "variantLegends": {
-        "A": "Ruta principal",
-        "B": "No para en la parada 2",
-        "C": "Ruta extendida",
-        "D": "Servicio especial"
-      }
+      "variantLegendsRouteComponent0": {},
+      "variantLegendsRouteComponent1": {}
     },
     {
       "id": "44",
@@ -1068,12 +982,8 @@
       "summerTimeTableNotice": "",
       "summerTimeTableBody": "",
       "timeTables": 1,
-      "variantLegends": {
-        "A": "Ruta principal",
-        "B": "No para en la parada 2",
-        "C": "Ruta extendida",
-        "D": "Servicio especial"
-      }
+      "variantLegendsRouteComponent0": {},
+      "variantLegendsRouteComponent1": {}
     },
     {
       "id": "45",
@@ -1113,12 +1023,8 @@
       "summerTimeTableNotice": "",
       "summerTimeTableBody": "",
       "timeTables": 2,
-      "variantLegends": {
-        "A": "Ruta principal",
-        "B": "No para en la parada 2",
-        "C": "Ruta extendida",
-        "D": "Servicio especial"
-      }
+      "variantLegendsRouteComponent0": {},
+      "variantLegendsRouteComponent1": {}
     },
     {
       "id": "46",
@@ -1158,12 +1064,8 @@
       "summerTimeTableNotice": "",
       "summerTimeTableBody": "",
       "timeTables": 1,
-      "variantLegends": {
-        "A": "Ruta principal",
-        "B": "No para en la parada 2",
-        "C": "Ruta extendida",
-        "D": "Servicio especial"
-      }
+      "variantLegendsRouteComponent0": {},
+      "variantLegendsRouteComponent1": {}
     },
     {
       "id": "47",
@@ -1203,12 +1105,8 @@
       "summerTimeTableNotice": "",
       "summerTimeTableBody": "",
       "timeTables": 4,
-      "variantLegends": {
-        "A": "Ruta principal",
-        "B": "No para en la parada 2",
-        "C": "Ruta extendida",
-        "D": "Servicio especial"
-      }
+      "variantLegendsRouteComponent0": {},
+      "variantLegendsRouteComponent1": {}
     },
     {
       "id": "4",
@@ -1248,12 +1146,8 @@
       "summerTimeTableNotice": "",
       "summerTimeTableBody": "",
       "timeTables": 1,
-      "variantLegends": {
-        "A": "Ruta principal",
-        "B": "No para en la parada 2",
-        "C": "Ruta extendida",
-        "D": "Servicio especial"
-      }
+      "variantLegendsRouteComponent0": {},
+      "variantLegendsRouteComponent1": {}
     },
     {
       "id": "48",
@@ -1293,12 +1187,8 @@
       "summerTimeTableNotice": "",
       "summerTimeTableBody": "",
       "timeTables": 2,
-      "variantLegends": {
-        "A": "Ruta principal",
-        "B": "No para en la parada 2",
-        "C": "Ruta extendida",
-        "D": "Servicio especial"
-      }
+      "variantLegendsRouteComponent0": {},
+      "variantLegendsRouteComponent1": {}
     },
     {
       "id": "50",
@@ -1338,12 +1228,8 @@
       "summerTimeTableNotice": "",
       "summerTimeTableBody": "",
       "timeTables": 2,
-      "variantLegends": {
-        "A": "Ruta principal",
-        "B": "No para en la parada 2",
-        "C": "Ruta extendida",
-        "D": "Servicio especial"
-      }
+      "variantLegendsRouteComponent0": {},
+      "variantLegendsRouteComponent1": {}
     },
     {
       "id": "51",
@@ -1383,12 +1269,8 @@
       "summerTimeTableNotice": "",
       "summerTimeTableBody": "",
       "timeTables": 1,
-      "variantLegends": {
-        "A": "Ruta principal",
-        "B": "No para en la parada 2",
-        "C": "Ruta extendida",
-        "D": "Servicio especial"
-      }
+      "variantLegendsRouteComponent0": {},
+      "variantLegendsRouteComponent1": {}
     },
     {
       "id": "52",
@@ -1428,12 +1310,8 @@
       "summerTimeTableNotice": "",
       "summerTimeTableBody": "",
       "timeTables": 1,
-      "variantLegends": {
-        "A": "Ruta principal",
-        "B": "No para en la parada 2",
-        "C": "Ruta extendida",
-        "D": "Servicio especial"
-      }
+      "variantLegendsRouteComponent0": {},
+      "variantLegendsRouteComponent1": {}
     },
     {
       "id": "54",
@@ -1473,12 +1351,8 @@
       "summerTimeTableNotice": "",
       "summerTimeTableBody": "",
       "timeTables": 1,
-      "variantLegends": {
-        "A": "Ruta principal",
-        "B": "No para en la parada 2",
-        "C": "Ruta extendida",
-        "D": "Servicio especial"
-      }
+      "variantLegendsRouteComponent0": {},
+      "variantLegendsRouteComponent1": {}
     },
     {
       "id": "55",
@@ -1518,12 +1392,8 @@
       "summerTimeTableNotice": "",
       "summerTimeTableBody": "",
       "timeTables": 2,
-      "variantLegends": {
-        "A": "Ruta principal",
-        "B": "No para en la parada 2",
-        "C": "Ruta extendida",
-        "D": "Servicio especial"
-      }
+      "variantLegendsRouteComponent0": {},
+      "variantLegendsRouteComponent1": {}
     },
     {
       "id": "64",
@@ -1563,12 +1433,8 @@
       "summerTimeTableNotice": "",
       "summerTimeTableBody": "",
       "timeTables": 1,
-      "variantLegends": {
-        "A": "Ruta principal",
-        "B": "No para en la parada 2",
-        "C": "Ruta extendida",
-        "D": "Servicio especial"
-      }
+      "variantLegendsRouteComponent0": {},
+      "variantLegendsRouteComponent1": {}
     },
     {
       "id": "70",
@@ -1608,12 +1474,8 @@
       "summerTimeTableNotice": "",
       "summerTimeTableBody": "",
       "timeTables": 1,
-      "variantLegends": {
-        "A": "Ruta principal",
-        "B": "No para en la parada 2",
-        "C": "Ruta extendida",
-        "D": "Servicio especial"
-      }
+      "variantLegendsRouteComponent0": {},
+      "variantLegendsRouteComponent1": {}
     },
     {
       "id": "80",
@@ -1653,12 +1515,8 @@
       "summerTimeTableNotice": "",
       "summerTimeTableBody": "",
       "timeTables": 2,
-      "variantLegends": {
-        "A": "Ruta principal",
-        "B": "No para en la parada 2",
-        "C": "Ruta extendida",
-        "D": "Servicio especial"
-      }
+      "variantLegendsRouteComponent0": {},
+      "variantLegendsRouteComponent1": {}
     },
     {
       "id": "81",
@@ -1698,12 +1556,8 @@
       "summerTimeTableNotice": "",
       "summerTimeTableBody": "",
       "timeTables": 1,
-      "variantLegends": {
-        "A": "Ruta principal",
-        "B": "No para en la parada 2",
-        "C": "Ruta extendida",
-        "D": "Servicio especial"
-      }
+      "variantLegendsRouteComponent0": {},
+      "variantLegendsRouteComponent1": {}
     },
     {
       "id": "82",
@@ -1743,12 +1597,8 @@
       "summerTimeTableNotice": "",
       "summerTimeTableBody": "",
       "timeTables": 1,
-      "variantLegends": {
-        "A": "Ruta principal",
-        "B": "No para en la parada 2",
-        "C": "Ruta extendida",
-        "D": "Servicio especial"
-      }
+      "variantLegendsRouteComponent0": {},
+      "variantLegendsRouteComponent1": {}
     },
     {
       "id": "84",
@@ -1788,12 +1638,8 @@
       "summerTimeTableNotice": "",
       "summerTimeTableBody": "",
       "timeTables": 2,
-      "variantLegends": {
-        "A": "Ruta principal",
-        "B": "No para en la parada 2",
-        "C": "Ruta extendida",
-        "D": "Servicio especial"
-      }
+      "variantLegendsRouteComponent0": {},
+      "variantLegendsRouteComponent1": {}
     },
     {
       "id": "91",
@@ -1833,12 +1679,8 @@
       "summerTimeTableNotice": "",
       "summerTimeTableBody": "",
       "timeTables": 1,
-      "variantLegends": {
-        "A": "Ruta principal",
-        "B": "No para en la parada 2",
-        "C": "Ruta extendida",
-        "D": "Servicio especial"
-      }
+      "variantLegendsRouteComponent0": {},
+      "variantLegendsRouteComponent1": {}
     },
     {
       "id": "61",
@@ -1878,12 +1720,8 @@
       "summerTimeTableNotice": "",
       "summerTimeTableBody": "",
       "timeTables": 1,
-      "variantLegends": {
-        "A": "Ruta principal",
-        "B": "No para en la parada 2",
-        "C": "Ruta extendida",
-        "D": "Servicio especial"
-      }
+      "variantLegendsRouteComponent0": {},
+      "variantLegendsRouteComponent1": {}
     },
     {
       "id": "62",
@@ -1923,12 +1761,8 @@
       "summerTimeTableNotice": "",
       "summerTimeTableBody": "",
       "timeTables": 1,
-      "variantLegends": {
-        "A": "Ruta principal",
-        "B": "No para en la parada 2",
-        "C": "Ruta extendida",
-        "D": "Servicio especial"
-      }
+      "variantLegendsRouteComponent0": {},
+      "variantLegendsRouteComponent1": {}
     },
     {
       "id": "63",
@@ -1968,12 +1802,8 @@
       "summerTimeTableNotice": "",
       "summerTimeTableBody": "",
       "timeTables": 1,
-      "variantLegends": {
-        "A": "Ruta principal",
-        "B": "No para en la parada 2",
-        "C": "Ruta extendida",
-        "D": "Servicio especial"
-      }
+      "variantLegendsRouteComponent0": {},
+      "variantLegendsRouteComponent1": {}
     }
   ]
 }
