@@ -1105,8 +1105,8 @@
       "summerTimeTableNotice": "",
       "summerTimeTableBody": "",
       "timeTables": 4,
-      "variantLegendsRouteComponent0": {},
-      "variantLegendsRouteComponent1": {}
+      "variantLegendsRouteComponent0": {"A" : "Por Tanatorio", "C" : "Por Las Majadillas", "E" : "No circula por Las Majadillas ni por el Tanatorio San Miguel"},
+      "variantLegendsRouteComponent1": {"A" : "Por Tanatorio y carretera de Chile", "D" : "Por Las Majadillas y Camino viejo El Cardón", "F" : "Por las Majadillas y carretera de chile", "H" : "No circula por Las Majadillas ni por el Tanatorio San Miguel"}
     },
     {
       "id": "4",
