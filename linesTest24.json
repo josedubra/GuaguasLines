@@ -737,7 +737,7 @@
       "summerTimeTableBody": "",
       "timeTables": 2,
       "variantLegendsRouteComponent0": {"A" : "Normal", "C": "Final en Teatro" },
-      "variantLegendsRouteComponent1": {"A" : "Normal", "D": "Final en Teatro" }
+      "variantLegendsRouteComponent1": {"A" : "Normal", "D": "Origen en Teatro" }
     },
     {
       "id": "26",
