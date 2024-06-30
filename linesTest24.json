@@ -35,8 +35,8 @@
       "timesFromB_SDF": ["05:30", "06:00", "06:30", "07:00", "07:18", "07:35", "07:52", "08:09", "08:26", "08:43", "09:00", "09:17", "09:34", "09:51", "10:08", "10:25", "10:42", "10:59", "11:16", "11:33", "11:47", "12:02", "12:19", "12:36", "12:53", "13:10", "13:27", "13:44", "14:01", "14:18", "14:38", "14:57", "15:14", "15:31", "15:48", "16:03", "16:18", "16:33", "16:48", "17:03", "17:23", "17:38", "17:53", "18:08", "18:23", "18:40", "18:55", "19:10", "19:26", "19:42", "19:58", "20:14", "20:30", "20:46", "21:02", "21:20", "21:40", "22:00", "22:20"],
       "notice": "",
       "summerTimetable": true,
-      "summerTimeTableNotice": "Horario de Verano",
-      "summerTimeTableBody": "Del 24 de junio al 1 de septiembre",
+      "summerTimeTableNotice": "Del 24 de junio al 1 de septiembre",
+      "summerTimeTableBody": "",
       "timeTables": 1,
       "variantLegendsRouteComponent0": {},
       "variantLegendsRouteComponent1": {}
