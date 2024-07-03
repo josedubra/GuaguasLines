@@ -1184,7 +1184,7 @@
       "timesFromB_SDF": [],
       "notice": "",
       "summerTimetable": true,
-      "summerTimeTableNotice": "Del 24 de junio al 7 de julio \n y del 19 de agosto al 1 de septiembre \n Del 8 de julio al 18 de agosto no circula",
+      "summerTimeTableNotice": "Del 24 de junio al 7 de julio \ny del 19 de agosto al 1 de septiembre \nDel 8 de julio al 18 de agosto no circula",
       "summerTimeTableBody": "",
       "timeTables": 2,
       "variantLegendsRouteComponent0": {"A" : "Normal", "C" : "No circula por Siete Palmas"},
