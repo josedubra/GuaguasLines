@@ -1183,7 +1183,7 @@
       "timesFromB_DF": [],
       "timesFromB_SDF": [],
       "notice": "",
-      "summerTimetable": true,
+      "summerTimetable": false,
       "summerTimeTableNotice": "Del 24 de junio al 7 de julio \ny del 19 de agosto al 1 de septiembre \nDel 8 de julio al 18 de agosto no circula",
       "summerTimeTableBody": "",
       "timeTables": 2,
