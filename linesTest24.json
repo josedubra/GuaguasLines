@@ -121,7 +121,7 @@
       "summerTimetable": false,
       "summerTimeTableNotice": "",
       "summerTimeTableBody": "",
-      "timeTables": 1,
+      "timeTables": 2,
       "variantLegendsRouteComponent0": {
         "A": "Normal",
         "B": "No accede al barrio de San Cristóbal"
