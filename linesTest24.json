@@ -560,7 +560,7 @@
       "number": "20",
       "route": "Santa Catalina - La Isleta",
       "color": "ColorBlue1",
-      "stopsFromA": [996, 27, 29, 30, 265, 267, 269, 271, 273, 275, 361, 953],
+      "stopsFromA": [996, 27, 29, 30, 112, 265, 267, 269, 271, 273, 275, 361, 953],
       "stopsFromA_Var1": [],
       "stopsFromA_Var2": [],
       "stopsFromB": [953, 294, 278, 292, 457, 440, 290, 288, 286, 284, 282, 996],
