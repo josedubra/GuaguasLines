@@ -1,0 +1,5150 @@
+[
+    {
+        "id": 1,
+        "name": "Teatro",
+        "lat": 28.1038306,
+        "lon": -15.41371479
+    },
+    {
+        "id": 2,
+        "name": "Francisco Gourié, 103",
+        "lat": 28.10749746,
+        "lon": -15.41637148
+    },
+    {
+        "id": 3,
+        "name": "Rafael Cabrera (san Telmo)",
+        "lat": 28.10913611,
+        "lon": -15.41612452
+    },
+    {
+        "id": 4,
+        "name": "Triana (parque San Telmo)",
+        "lat": 28.108263,
+        "lon": -15.417436
+    },
+    {
+        "id": 5,
+        "name": "Venegas (usos Múltiples)",
+        "lat": 28.11259245,
+        "lon": -15.41873934
+    },
+    {
+        "id": 6,
+        "name": "León Y Castillo, 13",
+        "lat": 28.10987174,
+        "lon": -15.41822324
+    },
+    {
+        "id": 8,
+        "name": "León Y Castillo (pl. De La Feria)",
+        "lat": 28.11343339,
+        "lon": -15.42004315
+    },
+    {
+        "id": 9,
+        "name": "Luis Doreste Silva, 22",
+        "lat": 28.11611731,
+        "lon": -15.42131181
+    },
+    {
+        "id": 10,
+        "name": "León Y Castillo, 145",
+        "lat": 28.11641053,
+        "lon": -15.42245882
+    },
+    {
+        "id": 11,
+        "name": "Manuel Becerra (puerto)",
+        "lat": 28.15020789,
+        "lon": -15.42201479
+    },
+    {
+        "id": 12,
+        "name": "León Y Castillo, 185",
+        "lat": 28.11797629,
+        "lon": -15.42383423
+    },
+    {
+        "id": 13,
+        "name": "León Y Castillo (c.n. Metropole)",
+        "lat": 28.12211981,
+        "lon": -15.42675145
+    },
+    {
+        "id": 14,
+        "name": "León Y Castillo, 209",
+        "lat": 28.12008373,
+        "lon": -15.42560149
+    },
+    {
+        "id": 15,
+        "name": "León Y Castillo (oficinas Municipales)",
+        "lat": 28.12476861,
+        "lon": -15.42856706
+    },
+    {
+        "id": 16,
+        "name": "León Y Castillo (colegio Salesiano)",
+        "lat": 28.12269298,
+        "lon": -15.4273756
+    },
+    {
+        "id": 17,
+        "name": "León Y Castillo (torre Las Palmas)",
+        "lat": 28.12875648,
+        "lon": -15.42981111
+    },
+    {
+        "id": 18,
+        "name": "León Y Castillo (oficinas Municipales)",
+        "lat": 28.1252953,
+        "lon": -15.42910383
+    },
+    {
+        "id": 19,
+        "name": "Alameda De Colón",
+        "lat": 28.102937698364258,
+        "lon": -15.417926788330078
+    },
+    {
+        "id": 20,
+        "name": "Intercambiador Santa Catalina",
+        "lat": 28.14000553,
+        "lon": -15.42862546
+    },
+    {
+        "id": 21,
+        "name": "Primero De Mayo, 6",
+        "lat": 28.10261551,
+        "lon": -15.41771811
+    },
+    {
+        "id": 22,
+        "name": "León Y Castillo (edificio José Antonio)",
+        "lat": 28.13257606,
+        "lon": -15.43007608
+    },
+    {
+        "id": 23,
+        "name": "Juan Manuel Durán González (base Naval)",
+        "lat": 28.13561132,
+        "lon": -15.43017263
+    },
+    {
+        "id": 24,
+        "name": "C/ Presidente Alvear (iglesia Del Pino)",
+        "lat": 28.135635375976562,
+        "lon": -15.430434226989746
+    },
+    {
+        "id": 25,
+        "name": "Eduardo Benot, Frente 5",
+        "lat": 28.14202296,
+        "lon": -15.43004693
+    },
+    {
+        "id": 26,
+        "name": "Parque Santa Catalina",
+        "lat": 28.13996041,
+        "lon": -15.43075225
+    },
+    {
+        "id": 27,
+        "name": "Woermann",
+        "lat": 28.14579259,
+        "lon": -15.42933876
+    },
+    {
+        "id": 28,
+        "name": "Albareda, 43",
+        "lat": 28.14506442,
+        "lon": -15.43024039
+    },
+    {
+        "id": 29,
+        "name": "Agustín Millares Sall (edificio Mapfre)",
+        "lat": 28.14789292,
+        "lon": -15.42795076
+    },
+    {
+        "id": 30,
+        "name": "C/ Juan Rejón,25",
+        "lat": 28.148805618286133,
+        "lon": -15.428048133850098
+    },
+    {
+        "id": 31,
+        "name": "Castillo De La Luz",
+        "lat": 28.1481354,
+        "lon": -15.4259755
+    },
+    {
+        "id": 32,
+        "name": "Castillo De La Luz",
+        "lat": 28.1484468,
+        "lon": -15.42595484
+    },
+    {
+        "id": 33,
+        "name": "Juan Rejón (frente Bomberos La Isleta)",
+        "lat": 28.1504447,
+        "lon": -15.41905782
+    },
+    {
+        "id": 34,
+        "name": "Juan Rejón, 67",
+        "lat": 28.14919242,
+        "lon": -15.42595393
+    },
+    {
+        "id": 35,
+        "name": "Av. Marítima Del Sur (juan Xxiii)",
+        "lat": 28.121403,
+        "lon": -15.423873
+    },
+    {
+        "id": 36,
+        "name": "Av. De Canarias (san Telmo)",
+        "lat": 28.10894829,
+        "lon": -15.41516552
+    },
+    {
+        "id": 37,
+        "name": "Luis Doreste Silva, 50",
+        "lat": 28.11861697,
+        "lon": -15.42349786
+    },
+    {
+        "id": 38,
+        "name": "Alc. J. Ramírez Bethencourt (centro Insular De Deportes)",
+        "lat": 28.11323916,
+        "lon": -15.41716668
+    },
+    {
+        "id": 39,
+        "name": "Juan Xxiii (clínica Del Pino)",
+        "lat": 28.11881782,
+        "lon": -15.42684385
+    },
+    {
+        "id": 40,
+        "name": "Alc. J. Ramírez Bethencourt (carvajal)",
+        "lat": 28.11853431,
+        "lon": -15.42113872
+    },
+    {
+        "id": 41,
+        "name": "Juan Xxiii (colegio Canterbury)",
+        "lat": 28.11855292,
+        "lon": -15.42852821
+    },
+    {
+        "id": 42,
+        "name": "Dr. Waksman (pl. De La Feria)",
+        "lat": 28.1130589,
+        "lon": -15.42033753
+    },
+    {
+        "id": 43,
+        "name": "Párroco Villar Reina, 80 (barranquillo D. Zoilo)",
+        "lat": 28.1160588,
+        "lon": -15.43140264
+    },
+    {
+        "id": 44,
+        "name": "Pl. De La Constitución (obelisco)",
+        "lat": 28.11190391,
+        "lon": -15.42375682
+    },
+    {
+        "id": 45,
+        "name": "Párroco Villar Reina, 154 (barranquillo D. Zoilo)",
+        "lat": 28.11392495,
+        "lon": -15.43256131
+    },
+    {
+        "id": 46,
+        "name": "Pérez Del Toro, 13",
+        "lat": 28.113648,
+        "lon": -15.425118
+    },
+    {
+        "id": 47,
+        "name": "Carlos Mauricio Blandy (pl. Arucas)",
+        "lat": 28.11577356,
+        "lon": -15.4342169
+    },
+    {
+        "id": 48,
+        "name": "Pérez Del Toro (pl. Dr. Juan Bosch Millares)",
+        "lat": 28.117206,
+        "lon": -15.427311
+    },
+    {
+        "id": 49,
+        "name": "Alm. Benítez Inglott, 12",
+        "lat": 28.11381018,
+        "lon": -15.43610078
+    },
+    {
+        "id": 50,
+        "name": "Párroco Villar Reina, 61 (barranquillo D. Zoilo)",
+        "lat": 28.11584638,
+        "lon": -15.43155029
+    },
+    {
+        "id": 51,
+        "name": "Alm. Benítez Inglott (c.s. Escaleritas)",
+        "lat": 28.112655,
+        "lon": -15.438001
+    },
+    {
+        "id": 52,
+        "name": "Párroco Matías Artiles",
+        "lat": 28.11304707,
+        "lon": -15.43362124
+    },
+    {
+        "id": 53,
+        "name": "Pintor Juan Ismael (iglesia Redonda)",
+        "lat": 28.11052591,
+        "lon": -15.43822118
+    },
+    {
+        "id": 54,
+        "name": "Echegaray, 137",
+        "lat": 28.1146031,
+        "lon": -15.43362667
+    },
+    {
+        "id": 55,
+        "name": "Teobaldo Power, Frente 51",
+        "lat": 28.10864065,
+        "lon": -15.43974891
+    },
+    {
+        "id": 56,
+        "name": "Henry Dunant, Frente 10",
+        "lat": 28.1127142,
+        "lon": -15.43530627
+    },
+    {
+        "id": 57,
+        "name": "Av. Escaleritas, Frente 111",
+        "lat": 28.10773256,
+        "lon": -15.44022479
+    },
+    {
+        "id": 58,
+        "name": "Presidente Alvear, 17",
+        "lat": 28.13508584,
+        "lon": -15.43036942
+    },
+    {
+        "id": 59,
+        "name": "Av. Escaleritas (urb. Sansofé)",
+        "lat": 28.10430731,
+        "lon": -15.44098497
+    },
+    {
+        "id": 60,
+        "name": "Deán Rodríguez Bolaños (pl. Alvarado Y Saz)",
+        "lat": 28.11156399,
+        "lon": -15.43705665
+    },
+    {
+        "id": 61,
+        "name": "Av. Escaleritas (c.c. La Ballena)",
+        "lat": 28.10330515,
+        "lon": -15.443787
+    },
+    {
+        "id": 62,
+        "name": "Teobaldo Power (iglesia Redonda)",
+        "lat": 28.110565,
+        "lon": -15.437843
+    },
+    {
+        "id": 63,
+        "name": "Guillermo Santana Rivero, Frente 1",
+        "lat": 28.10624643,
+        "lon": -15.44412723
+    },
+    {
+        "id": 64,
+        "name": "Mariucha, 139",
+        "lat": 28.109234,
+        "lon": -15.437861
+    },
+    {
+        "id": 65,
+        "name": "Guillermo Santana Rivero, Frente 19",
+        "lat": 28.10892888,
+        "lon": -15.44406615
+    },
+    {
+        "id": 66,
+        "name": "Mariucha, 171",
+        "lat": 28.10720618,
+        "lon": -15.43973353
+    },
+    {
+        "id": 67,
+        "name": "Guillermo Santana Rivero, Frente 33",
+        "lat": 28.11110696,
+        "lon": -15.44365658
+    },
+    {
+        "id": 68,
+        "name": "Av. Escaleritas (urb. Sansofé)",
+        "lat": 28.104065,
+        "lon": -15.440898
+    },
+    {
+        "id": 69,
+        "name": "Guillermo Santana Rivero",
+        "lat": 28.11314804,
+        "lon": -15.44326333
+    },
+    {
+        "id": 70,
+        "name": "Av. Escaleritas (c.c. La Ballena)",
+        "lat": 28.10280842,
+        "lon": -15.44276678
+    },
+    {
+        "id": 71,
+        "name": "Alcalde Díaz Saavedra Navarro (pl. Santa Isabel)",
+        "lat": 28.09702457,
+        "lon": -15.41235983
+    },
+    {
+        "id": 72,
+        "name": "Av. De La Feria (infecar)",
+        "lat": 28.10657482,
+        "lon": -15.44519928
+    },
+    {
+        "id": 73,
+        "name": "Dr. Hernán Pérez De Grado, 6",
+        "lat": 28.09763545,
+        "lon": -15.41554878
+    },
+    {
+        "id": 74,
+        "name": "Diego Betancor Suárez, 19",
+        "lat": 28.10923171,
+        "lon": -15.44557088
+    },
+    {
+        "id": 75,
+        "name": "Dr. Hernán Pérez De Grado (la Portadilla)",
+        "lat": 28.09810802,
+        "lon": -15.41754285
+    },
+    {
+        "id": 76,
+        "name": "Diego Betancor Suárez, 39",
+        "lat": 28.11203572,
+        "lon": -15.4449415
+    },
+    {
+        "id": 77,
+        "name": "Blas Cabrera Felipe (carrefour)",
+        "lat": 28.071834,
+        "lon": -15.417817
+    },
+    {
+        "id": 78,
+        "name": "Eufemiano Jurado (juzgados)",
+        "lat": 28.09494749,
+        "lon": -15.41372434
+    },
+    {
+        "id": 79,
+        "name": "Pº San José (iglesia San José)",
+        "lat": 28.09500586,
+        "lon": -15.41840827
+    },
+    {
+        "id": 80,
+        "name": "Eufemiano Jurado, Frente 32",
+        "lat": 28.0961117,
+        "lon": -15.41711673
+    },
+    {
+        "id": 81,
+        "name": "Pº San José, 170",
+        "lat": 28.09134919,
+        "lon": -15.41918157
+    },
+    {
+        "id": 82,
+        "name": "Pº San José (iglesia San José)",
+        "lat": 28.0947369,
+        "lon": -15.41827361
+    },
+    {
+        "id": 83,
+        "name": "Pº San José, 214",
+        "lat": 28.089778,
+        "lon": -15.4197
+    },
+    {
+        "id": 84,
+        "name": "Pº San José, Frente 154",
+        "lat": 28.09182199,
+        "lon": -15.41895511
+    },
+    {
+        "id": 85,
+        "name": "Pº San José, 264",
+        "lat": 28.08819006,
+        "lon": -15.42011429
+    },
+    {
+        "id": 86,
+        "name": "Pº San José, Frente 208",
+        "lat": 28.08991727,
+        "lon": -15.41952462
+    },
+    {
+        "id": 87,
+        "name": "Pº San José, 290",
+        "lat": 28.0859745,
+        "lon": -15.41960777
+    },
+    {
+        "id": 88,
+        "name": "Pº San José, Frente 266",
+        "lat": 28.08823801,
+        "lon": -15.41997393
+    },
+    {
+        "id": 89,
+        "name": "Blas Cabrera Felipe (iglesia Sta. Clara)",
+        "lat": 28.083909,
+        "lon": -15.41926695
+    },
+    {
+        "id": 90,
+        "name": "Pº San José, Frente 298",
+        "lat": 28.08567589,
+        "lon": -15.4189979
+    },
+    {
+        "id": 91,
+        "name": "Marianao, 12",
+        "lat": 28.06361936,
+        "lon": -15.42289487
+    },
+    {
+        "id": 92,
+        "name": "Blas Cabrera Felipe, Frente 306",
+        "lat": 28.08463518,
+        "lon": -15.41905269
+    },
+    {
+        "id": 93,
+        "name": "Blas Cabrera Felipe (parking Hosp. Materno Insular)",
+        "lat": 28.08032414,
+        "lon": -15.41840691
+    },
+    {
+        "id": 94,
+        "name": "Blas Cabrera Felipe (iglesia Sta. Clara)",
+        "lat": 28.08202753,
+        "lon": -15.41871995
+    },
+    {
+        "id": 95,
+        "name": "Ciudad Deportiva Gran Canaria",
+        "lat": 28.0764034,
+        "lon": -15.41732628
+    },
+    {
+        "id": 96,
+        "name": "Blas Cabrera Felipe (parking Hosp. Materno Insular)",
+        "lat": 28.08043842,
+        "lon": -15.41829497
+    },
+    {
+        "id": 97,
+        "name": "Blas Cabrera Felipe, 14",
+        "lat": 28.07446335,
+        "lon": -15.41732327
+    },
+    {
+        "id": 98,
+        "name": "Ciudad Deportiva Gran Canaria",
+        "lat": 28.07688791,
+        "lon": -15.41736078
+    },
+    {
+        "id": 99,
+        "name": "Párroco José C. Quintana, 8",
+        "lat": 28.06817299,
+        "lon": -15.41780043
+    },
+    {
+        "id": 100,
+        "name": "Blas Cabrera Felipe, Frente 16",
+        "lat": 28.07450714,
+        "lon": -15.41717853
+    },
+    {
+        "id": 101,
+        "name": "Párroco José C. Quintana, 30",
+        "lat": 28.066982,
+        "lon": -15.418597
+    },
+    {
+        "id": 102,
+        "name": "Blas Cabrera Felipe (carrefour)",
+        "lat": 28.07246374,
+        "lon": -15.41753595
+    },
+    {
+        "id": 103,
+        "name": "Párroco José C. Quintana, 46",
+        "lat": 28.06645119,
+        "lon": -15.41981222
+    },
+    {
+        "id": 104,
+        "name": "Párroco José C. Quintana, Frente 8",
+        "lat": 28.06849384,
+        "lon": -15.41779158
+    },
+    {
+        "id": 105,
+        "name": "Miguel Martín Fernández De La Torre, 7",
+        "lat": 28.05780976,
+        "lon": -15.44525532
+    },
+    {
+        "id": 106,
+        "name": "Párroco José C. Quintana, 15",
+        "lat": 28.06726607,
+        "lon": -15.41804542
+    },
+    {
+        "id": 107,
+        "name": "Córdoba, 40",
+        "lat": 28.09290025,
+        "lon": -15.4169304
+    },
+    {
+        "id": 108,
+        "name": "Párroco José C. Quintana, 41",
+        "lat": 28.06675546,
+        "lon": -15.41896862
+    },
+    {
+        "id": 109,
+        "name": "Córdoba, Frente 31",
+        "lat": 28.090733,
+        "lon": -15.41828
+    },
+    {
+        "id": 110,
+        "name": "Córdoba (bomberos Vegueta)",
+        "lat": 28.09516036,
+        "lon": -15.41510221
+    },
+    {
+        "id": 111,
+        "name": "Aldea Blanca (tanatorio San Miguel)",
+        "lat": 28.11298426,
+        "lon": -15.45563387
+    },
+    {
+        "id": 112,
+        "name": "Agustín Millares Sall (mercado Del Puerto)",
+        "lat": 28.14790229,
+        "lon": -15.42842529
+    },
+    {
+        "id": 113,
+        "name": "Córdoba, Frente 49",
+        "lat": 28.08798671,
+        "lon": -15.41958822
+    },
+    {
+        "id": 114,
+        "name": "Córdoba, 19",
+        "lat": 28.09374441,
+        "lon": -15.41623797
+    },
+    {
+        "id": 115,
+        "name": "Córdoba, 54",
+        "lat": 28.08596377,
+        "lon": -15.41783781
+    },
+    {
+        "id": 116,
+        "name": "Córdoba, 29",
+        "lat": 28.090827,
+        "lon": -15.418112
+    },
+    {
+        "id": 117,
+        "name": "Alicante (colegio Islas Canarias)",
+        "lat": 28.08527193,
+        "lon": -15.41724806
+    },
+    {
+        "id": 118,
+        "name": "Córdoba, 49",
+        "lat": 28.08812433,
+        "lon": -15.41941941
+    },
+    {
+        "id": 119,
+        "name": "Amurga (c.s. Cono Sur)",
+        "lat": 28.07649745,
+        "lon": -15.41952378
+    },
+    {
+        "id": 120,
+        "name": "Córdoba, 71",
+        "lat": 28.08606261,
+        "lon": -15.41790526
+    },
+    {
+        "id": 121,
+        "name": "Juan Carlos I, 10",
+        "lat": 28.11761598,
+        "lon": -15.4458573
+    },
+    {
+        "id": 122,
+        "name": "Alicante (colegio Islas Canarias)",
+        "lat": 28.08506061,
+        "lon": -15.41715497
+    },
+    {
+        "id": 123,
+        "name": "Juan Carlos I, 20",
+        "lat": 28.11539275,
+        "lon": -15.44829707
+    },
+    {
+        "id": 124,
+        "name": "Sargento Salom, 34",
+        "lat": 28.07273123,
+        "lon": -15.41889047
+    },
+    {
+        "id": 125,
+        "name": "Doctor Sventenius, Frente 16",
+        "lat": 28.08313978,
+        "lon": -15.41951119
+    },
+    {
+        "id": 126,
+        "name": "Pedro Hidalgo, 35",
+        "lat": 28.07169292,
+        "lon": -15.42081253
+    },
+    {
+        "id": 127,
+        "name": "Doctor Sventenius, Frente 2",
+        "lat": 28.08474506,
+        "lon": -15.4201784
+    },
+    {
+        "id": 128,
+        "name": "Pedro Hidalgo, 53",
+        "lat": 28.07140845,
+        "lon": -15.42209208
+    },
+    {
+        "id": 129,
+        "name": "Francisco Inglott Artiles, 6",
+        "lat": 28.0840755,
+        "lon": -15.42051317
+    },
+    {
+        "id": 130,
+        "name": "Debussy, 3",
+        "lat": 28.07273227,
+        "lon": -15.42186143
+    },
+    {
+        "id": 131,
+        "name": "Juan Sánchez De La Coba, 2",
+        "lat": 28.08280144,
+        "lon": -15.41980818
+    },
+    {
+        "id": 132,
+        "name": "Debussy, 9",
+        "lat": 28.0734793,
+        "lon": -15.41973092
+    },
+    {
+        "id": 133,
+        "name": "Sabino Berthelot, 6",
+        "lat": 28.07951312,
+        "lon": -15.42076231
+    },
+    {
+        "id": 134,
+        "name": "Debussy, Frente 6",
+        "lat": 28.07400084,
+        "lon": -15.41829179
+    },
+    {
+        "id": 135,
+        "name": "Amurga (casas Terreras El Lasso, 33)",
+        "lat": 28.07548206,
+        "lon": -15.42624181
+    },
+    {
+        "id": 136,
+        "name": "Anton Dvorak, 5",
+        "lat": 28.07420128,
+        "lon": -15.41879348
+    },
+    {
+        "id": 137,
+        "name": "Amurga (casas Terreras El Lasso, 1)",
+        "lat": 28.07511577,
+        "lon": -15.42768373
+    },
+    {
+        "id": 138,
+        "name": "Juan Sebastian Bach, Frente 4",
+        "lat": 28.07446831,
+        "lon": -15.41934763
+    },
+    {
+        "id": 139,
+        "name": "Amurga (el Lasso, Bloque 5)",
+        "lat": 28.07542297,
+        "lon": -15.42837513
+    },
+    {
+        "id": 140,
+        "name": "Berlioz, 5",
+        "lat": 28.07447047,
+        "lon": -15.42036034
+    },
+    {
+        "id": 141,
+        "name": "Amurga (el Lasso, Bloque 17)",
+        "lat": 28.076572,
+        "lon": -15.426732
+    },
+    {
+        "id": 142,
+        "name": "Schubert, Frente 6",
+        "lat": 28.07489639,
+        "lon": -15.41963144
+    },
+    {
+        "id": 143,
+        "name": "Sargento Salom, 44",
+        "lat": 28.07277992,
+        "lon": -15.41916151
+    },
+    {
+        "id": 144,
+        "name": "Schubert, 5",
+        "lat": 28.0750717,
+        "lon": -15.41969976
+    },
+    {
+        "id": 145,
+        "name": "Pedro Hidalgo (polideportivo)",
+        "lat": 28.07167296,
+        "lon": -15.42125089
+    },
+    {
+        "id": 146,
+        "name": "Schubert, 17",
+        "lat": 28.07462943,
+        "lon": -15.42112338
+    },
+    {
+        "id": 147,
+        "name": "Pedro Hidalgo, Frente 91",
+        "lat": 28.07160369,
+        "lon": -15.42389192
+    },
+    {
+        "id": 148,
+        "name": "Ctra. Lomo Blanco, 5",
+        "lat": 28.08330107,
+        "lon": -15.4435546
+    },
+    {
+        "id": 149,
+        "name": "San Cristóbal De La Laguna, Frente 51",
+        "lat": 28.06969409,
+        "lon": -15.4257895
+    },
+    {
+        "id": 150,
+        "name": "Francisco Inglott Artiles, 19",
+        "lat": 28.08228104,
+        "lon": -15.42013262
+    },
+    {
+        "id": 151,
+        "name": "San Cristóbal De La Laguna, 96",
+        "lat": 28.06973519,
+        "lon": -15.4276713
+    },
+    {
+        "id": 152,
+        "name": "Francisco Inglott Artiles, 33",
+        "lat": 28.08047426,
+        "lon": -15.42022347
+    },
+    {
+        "id": 153,
+        "name": "San Cristóbal De La Laguna, Frente 133",
+        "lat": 28.06919756,
+        "lon": -15.42916429
+    },
+    {
+        "id": 154,
+        "name": "Sabino Berthelot, 19",
+        "lat": 28.07930487,
+        "lon": -15.42086947
+    },
+    {
+        "id": 155,
+        "name": "San Cristóbal De La Laguna, 168",
+        "lat": 28.06821161,
+        "lon": -15.43004553
+    },
+    {
+        "id": 156,
+        "name": "Amurga (c.s. Cono Sur)",
+        "lat": 28.07635956,
+        "lon": -15.41932988
+    },
+    {
+        "id": 157,
+        "name": "Hoya De La Plata",
+        "lat": 28.06973169,
+        "lon": -15.41814313
+    },
+    {
+        "id": 158,
+        "name": "Amurga (casas Terreras El Lasso, 33)",
+        "lat": 28.07534349,
+        "lon": -15.42637528
+    },
+    {
+        "id": 159,
+        "name": "Candelaria De León, 6",
+        "lat": 28.07032976,
+        "lon": -15.41922959
+    },
+    {
+        "id": 160,
+        "name": "Amurga (casas Terreras El Lasso, 1)",
+        "lat": 28.07501805,
+        "lon": -15.42727396
+    },
+    {
+        "id": 161,
+        "name": "Farmacéutico Arencibia Cabrera (cofarca)",
+        "lat": 28.08892502,
+        "lon": -15.43340434
+    },
+    {
+        "id": 162,
+        "name": "Amurga (el Lasso, Bloque 4)",
+        "lat": 28.07540131,
+        "lon": -15.42863953
+    },
+    {
+        "id": 163,
+        "name": "Concejal Andrés Alvarado Janina (local Social Hoya De La Plata)",
+        "lat": 28.06966982,
+        "lon": -15.42126531
+    },
+    {
+        "id": 164,
+        "name": "Amurga (el Lasso, Bloque 17)",
+        "lat": 28.0766565,
+        "lon": -15.42685481
+    },
+    {
+        "id": 165,
+        "name": "Av. Marítima Del Sur (hospital Materno Insular)",
+        "lat": 28.08112248,
+        "lon": -15.41648922
+    },
+    {
+        "id": 166,
+        "name": "Pedro Hidalgo, 97",
+        "lat": 28.07141122,
+        "lon": -15.42409476
+    },
+    {
+        "id": 167,
+        "name": "Salamanca, 171",
+        "lat": 28.06737105,
+        "lon": -15.42912693
+    },
+    {
+        "id": 168,
+        "name": "Salamanca, 63",
+        "lat": 28.06945039,
+        "lon": -15.4251726
+    },
+    {
+        "id": 169,
+        "name": "Arguineguín",
+        "lat": 28.10926667,
+        "lon": -15.45698333
+    },
+    {
+        "id": 170,
+        "name": "Salamanca, 99",
+        "lat": 28.06944533,
+        "lon": -15.42645799
+    },
+    {
+        "id": 171,
+        "name": "Reyes Católicos, 9",
+        "lat": 28.09987737,
+        "lon": -15.41390051
+    },
+    {
+        "id": 172,
+        "name": "Salamanca, 135",
+        "lat": 28.06880847,
+        "lon": -15.42779444
+    },
+    {
+        "id": 173,
+        "name": "Pintor Felo Monzón, 2",
+        "lat": 28.11157449,
+        "lon": -15.45095811
+    },
+    {
+        "id": 174,
+        "name": "Juan Carlos I, 9",
+        "lat": 28.11772515,
+        "lon": -15.44528582
+    },
+    {
+        "id": 175,
+        "name": "Nueva, Frente 67",
+        "lat": 28.095837,
+        "lon": -15.431752
+    },
+    {
+        "id": 176,
+        "name": "Juan Carlos I, 23",
+        "lat": 28.11532128,
+        "lon": -15.44790968
+    },
+    {
+        "id": 177,
+        "name": "Andenes, Frente 15",
+        "lat": 28.0985144,
+        "lon": -15.42847137
+    },
+    {
+        "id": 178,
+        "name": "Candelaria De León, 7",
+        "lat": 28.0701748,
+        "lon": -15.41921664
+    },
+    {
+        "id": 179,
+        "name": "Camino Al Polvorín, 10",
+        "lat": 28.09524628,
+        "lon": -15.42247002
+    },
+    {
+        "id": 180,
+        "name": "Ctra. De San Lorenzo, Frente 128",
+        "lat": 28.08805898,
+        "lon": -15.47875223
+    },
+    {
+        "id": 181,
+        "name": "Camino Al Polvorín, 42",
+        "lat": 28.09608061,
+        "lon": -15.42131482
+    },
+    {
+        "id": 182,
+        "name": "Concejal Andrés Alvarado Janina (local Social Hoya De La Plata)",
+        "lat": 28.06969261,
+        "lon": -15.42102707
+    },
+    {
+        "id": 183,
+        "name": "Camino Al Polvorín (plaza Del Sol Naciente)",
+        "lat": 28.09671206,
+        "lon": -15.42018084
+    },
+    {
+        "id": 184,
+        "name": "Residencial Flor Sirera",
+        "lat": 28.1085,
+        "lon": -15.46496667
+    },
+    {
+        "id": 185,
+        "name": "Batería De San Juan, 16",
+        "lat": 28.09587312,
+        "lon": -15.42076813
+    },
+    {
+        "id": 186,
+        "name": "Pintor Felo Monzón, 1",
+        "lat": 28.11115869,
+        "lon": -15.45070223
+    },
+    {
+        "id": 187,
+        "name": "Batería De San Juan, 48",
+        "lat": 28.09465959,
+        "lon": -15.42171466
+    },
+    {
+        "id": 188,
+        "name": "Pintor Felo Monzón (trópico)",
+        "lat": 28.10887583,
+        "lon": -15.45123472
+    },
+    {
+        "id": 189,
+        "name": "Real De S. Roque, Frente 11",
+        "lat": 28.09829801,
+        "lon": -15.42175218
+    },
+    {
+        "id": 190,
+        "name": "Andenes, 9",
+        "lat": 28.09848032,
+        "lon": -15.42799993
+    },
+    {
+        "id": 191,
+        "name": "Farnesio, Frente 15",
+        "lat": 28.098419,
+        "lon": -15.424381
+    },
+    {
+        "id": 192,
+        "name": "Néstor Álamo (campo De Lucha)",
+        "lat": 28.10259747,
+        "lon": -15.47141022
+    },
+    {
+        "id": 193,
+        "name": "Farnesio, Frente 59",
+        "lat": 28.09958437,
+        "lon": -15.4259619
+    },
+    {
+        "id": 194,
+        "name": "Ctra. Del Cardón (rotonda)",
+        "lat": 28.11842316,
+        "lon": -15.45322759
+    },
+    {
+        "id": 195,
+        "name": "Fama, Frente 85",
+        "lat": 28.09922864,
+        "lon": -15.42649563
+    },
+    {
+        "id": 196,
+        "name": "Juan Xxiii (clínica Del Pino)",
+        "lat": 28.11900322,
+        "lon": -15.42617075
+    },
+    {
+        "id": 197,
+        "name": "Andenes, Frente 39",
+        "lat": 28.09829686,
+        "lon": -15.4298691
+    },
+    {
+        "id": 198,
+        "name": "Real De San Juan (antigua Cárcel)",
+        "lat": 28.09437614,
+        "lon": -15.42371553
+    },
+    {
+        "id": 199,
+        "name": "Nueva, Frente 25",
+        "lat": 28.097346,
+        "lon": -15.430817
+    },
+    {
+        "id": 200,
+        "name": "Los Manzanos",
+        "lat": 28.0944874,
+        "lon": -15.42325223
+    },
+    {
+        "id": 201,
+        "name": "Barahona, 77",
+        "lat": 28.094613,
+        "lon": -15.433187
+    },
+    {
+        "id": 202,
+        "name": "Batería De San Juan",
+        "lat": 28.09383204,
+        "lon": -15.42231542
+    },
+    {
+        "id": 203,
+        "name": "Barahona, Frente 19",
+        "lat": 28.09209137,
+        "lon": -15.43392376
+    },
+    {
+        "id": 204,
+        "name": "Juan De Quesada (rectorado Ulpgc)",
+        "lat": 28.09895037,
+        "lon": -15.42066098
+    },
+    {
+        "id": 205,
+        "name": "La Matula, Frente 25",
+        "lat": 28.08951783,
+        "lon": -15.4359094
+    },
+    {
+        "id": 206,
+        "name": "Real De S. Roque, 13",
+        "lat": 28.09794471,
+        "lon": -15.42157071
+    },
+    {
+        "id": 207,
+        "name": "La Matula, Frente 61",
+        "lat": 28.08785807,
+        "lon": -15.43704975
+    },
+    {
+        "id": 208,
+        "name": "Farnesio, 13",
+        "lat": 28.09830503,
+        "lon": -15.42431882
+    },
+    {
+        "id": 209,
+        "name": "La Matula, Frente 95",
+        "lat": 28.08562695,
+        "lon": -15.4388594
+    },
+    {
+        "id": 210,
+        "name": "Farnesio, 53",
+        "lat": 28.09937855,
+        "lon": -15.42584999
+    },
+    {
+        "id": 211,
+        "name": "Puente La Matula",
+        "lat": 28.08269983,
+        "lon": -15.44131138
+    },
+    {
+        "id": 212,
+        "name": "Fama (farnesio)",
+        "lat": 28.09860764,
+        "lon": -15.42558984
+    },
+    {
+        "id": 213,
+        "name": "Ctra. Lomo Blanco (hermanos Toledo Suárez)",
+        "lat": 28.08476365,
+        "lon": -15.44114342
+    },
+    {
+        "id": 214,
+        "name": "Andenes, 19",
+        "lat": 28.09835596,
+        "lon": -15.42926456
+    },
+    {
+        "id": 215,
+        "name": "Ctra. Lomo Blanco (lomo Verdejo)",
+        "lat": 28.08804474,
+        "lon": -15.43917529
+    },
+    {
+        "id": 216,
+        "name": "Nueva, 35",
+        "lat": 28.09697388,
+        "lon": -15.43076313
+    },
+    {
+        "id": 217,
+        "name": "Ctra. Lomo Blanco (felipe Martel)",
+        "lat": 28.08389417,
+        "lon": -15.44291923
+    },
+    {
+        "id": 218,
+        "name": "Nueva, 77",
+        "lat": 28.09400375,
+        "lon": -15.43350638
+    },
+    {
+        "id": 219,
+        "name": "San José Artesano, 24",
+        "lat": 28.084876,
+        "lon": -15.443285
+    },
+    {
+        "id": 220,
+        "name": "Barahona, 19",
+        "lat": 28.09188242,
+        "lon": -15.4339684
+    },
+    {
+        "id": 221,
+        "name": "Real De San Juan, 62",
+        "lat": 28.09656541,
+        "lon": -15.42167028
+    },
+    {
+        "id": 222,
+        "name": "La Matula, 25",
+        "lat": 28.08947932,
+        "lon": -15.43584948
+    },
+    {
+        "id": 223,
+        "name": "Severo Ochoa",
+        "lat": 28.095826,
+        "lon": -15.425174
+    },
+    {
+        "id": 224,
+        "name": "La Matula, 65",
+        "lat": 28.0875221,
+        "lon": -15.43708543
+    },
+    {
+        "id": 225,
+        "name": "Severo Ochoa, 12",
+        "lat": 28.09505688,
+        "lon": -15.42762499
+    },
+    {
+        "id": 226,
+        "name": "La Matula, 97",
+        "lat": 28.08549651,
+        "lon": -15.43879333
+    },
+    {
+        "id": 227,
+        "name": "Severo Ochoa (george Pire)",
+        "lat": 28.09346836,
+        "lon": -15.42944402
+    },
+    {
+        "id": 228,
+        "name": "Aldea Blanca (tanatorio San Miguel)",
+        "lat": 28.11290384,
+        "lon": -15.45582994
+    },
+    {
+        "id": 229,
+        "name": "Miguel Ángel Asturias, 5",
+        "lat": 28.094617,
+        "lon": -15.42926
+    },
+    {
+        "id": 230,
+        "name": "Ctra. Lomo Blanco (puente La Matula)",
+        "lat": 28.08242384,
+        "lon": -15.44206948
+    },
+    {
+        "id": 231,
+        "name": "Miguel Ángel Asturias (iglesia El Batán)",
+        "lat": 28.09591245,
+        "lon": -15.42859756
+    },
+    {
+        "id": 232,
+        "name": "Ctra. Lomo Blanco (hermanos Toledo Suárez)",
+        "lat": 28.08458284,
+        "lon": -15.44121796
+    },
+    {
+        "id": 233,
+        "name": "Párroco Segundo Vega, 116",
+        "lat": 28.09647167,
+        "lon": -15.4286635
+    },
+    {
+        "id": 234,
+        "name": "Ctra. Lomo Blanco (el Hornillo)",
+        "lat": 28.08778873,
+        "lon": -15.43944946
+    },
+    {
+        "id": 235,
+        "name": "Párroco Segundo Vega, Frente 121",
+        "lat": 28.095637,
+        "lon": -15.429687
+    },
+    {
+        "id": 236,
+        "name": "Ctra. Lomo Blanco (felipe Martel)",
+        "lat": 28.08400486,
+        "lon": -15.44262072
+    },
+    {
+        "id": 237,
+        "name": "Párroco Segundo Vega, 166",
+        "lat": 28.09462046,
+        "lon": -15.43054291
+    },
+    {
+        "id": 238,
+        "name": "Arguineguín, 8",
+        "lat": 28.10927187,
+        "lon": -15.45713266
+    },
+    {
+        "id": 239,
+        "name": "Párroco Segundo Vega, 220",
+        "lat": 28.092821,
+        "lon": -15.43222112
+    },
+    {
+        "id": 240,
+        "name": "Ctra. Del Centro (colegio S. Juan Bosco)",
+        "lat": 28.09762345,
+        "lon": -15.42267793
+    },
+    {
+        "id": 241,
+        "name": "Párroco Segundo Vega, 276",
+        "lat": 28.090597,
+        "lon": -15.433456
+    },
+    {
+        "id": 242,
+        "name": "Severo Ochoa, Frente 10",
+        "lat": 28.09516712,
+        "lon": -15.42739772
+    },
+    {
+        "id": 243,
+        "name": "Primero De Mayo (correos)",
+        "lat": 28.10619054,
+        "lon": -15.42020565
+    },
+    {
+        "id": 244,
+        "name": "Severo Ochoa (albert Schwitzer)",
+        "lat": 28.09389805,
+        "lon": -15.42872907
+    },
+    {
+        "id": 245,
+        "name": "Ingeniero J. Bosch Y Sintes, 1",
+        "lat": 28.10846881,
+        "lon": -15.42105064
+    },
+    {
+        "id": 246,
+        "name": "Severo Ochoa (george Bernard Shaw)",
+        "lat": 28.09281886,
+        "lon": -15.42992348
+    },
+    {
+        "id": 247,
+        "name": "Pl. De La Constitución (obelisco)",
+        "lat": 28.11221231,
+        "lon": -15.42332079
+    },
+    {
+        "id": 248,
+        "name": "Miguel Ángel Asturias, Frente 5",
+        "lat": 28.0946199,
+        "lon": -15.42941181
+    },
+    {
+        "id": 249,
+        "name": "Tomás Morales, Frente 69",
+        "lat": 28.115001,
+        "lon": -15.425162
+    },
+    {
+        "id": 250,
+        "name": "Miguel Ángel Asturias (iglesia El Batán)",
+        "lat": 28.09554675,
+        "lon": -15.42887539
+    },
+    {
+        "id": 251,
+        "name": "Tomás Morales, 120",
+        "lat": 28.11704759,
+        "lon": -15.42634139
+    },
+    {
+        "id": 252,
+        "name": "Rotonda De Lomo Blanco",
+        "lat": 28.08319048,
+        "lon": -15.44604656
+    },
+    {
+        "id": 253,
+        "name": "Emilio Ley (piscinas Julio Navarro)",
+        "lat": 28.12150081,
+        "lon": -15.43001198
+    },
+    {
+        "id": 254,
+        "name": "Ernest Hemingway, 9",
+        "lat": 28.09517777,
+        "lon": -15.42963935
+    },
+    {
+        "id": 255,
+        "name": "Pío Xii (colegio Teresiano)",
+        "lat": 28.12503134,
+        "lon": -15.4321956
+    },
+    {
+        "id": 256,
+        "name": "Ernest Hemingway, Frente 132",
+        "lat": 28.09344848,
+        "lon": -15.43113534
+    },
+    {
+        "id": 257,
+        "name": "Pío Xii (estadio Insular)",
+        "lat": 28.12885545,
+        "lon": -15.43292133
+    },
+    {
+        "id": 258,
+        "name": "Ernest Hemingway (colegio El Batán)",
+        "lat": 28.09206949,
+        "lon": -15.43252514
+    },
+    {
+        "id": 259,
+        "name": "Galicia (mercado Central)",
+        "lat": 28.13367212,
+        "lon": -15.43309802
+    },
+    {
+        "id": 260,
+        "name": "Farmacéutico Arencibia Cabrera (cofarca)",
+        "lat": 28.08910679,
+        "lon": -15.43316805
+    },
+    {
+        "id": 261,
+        "name": "Galicia, 32",
+        "lat": 28.135192,
+        "lon": -15.433256
+    },
+    {
+        "id": 262,
+        "name": "Primero De Mayo, 35",
+        "lat": 28.10650155,
+        "lon": -15.42054416
+    },
+    {
+        "id": 263,
+        "name": "Tomás Miller, Frente 31",
+        "lat": 28.137497,
+        "lon": -15.433434
+    },
+    {
+        "id": 264,
+        "name": "Tomás Morales, 5",
+        "lat": 28.10825951,
+        "lon": -15.42072048
+    },
+    {
+        "id": 265,
+        "name": "Luján Pérez, 20",
+        "lat": 28.14956689,
+        "lon": -15.42961659
+    },
+    {
+        "id": 266,
+        "name": "Emilio Ley (parque Doramas)",
+        "lat": 28.12133333,
+        "lon": -15.43002611
+    },
+    {
+        "id": 267,
+        "name": "Luján Pérez, 66",
+        "lat": 28.15118931,
+        "lon": -15.42995522
+    },
+    {
+        "id": 268,
+        "name": "Primero De Mayo, 1",
+        "lat": 28.10257913,
+        "lon": -15.41782395
+    },
+    {
+        "id": 269,
+        "name": "Tinguaro, 18",
+        "lat": 28.15313212,
+        "lon": -15.42930192
+    },
+    {
+        "id": 270,
+        "name": "Pío Xii (colegio Teresiano)",
+        "lat": 28.125265,
+        "lon": -15.43244192
+    },
+    {
+        "id": 271,
+        "name": "Gumidafe, 30",
+        "lat": 28.15266359,
+        "lon": -15.42790479
+    },
+    {
+        "id": 272,
+        "name": "Pío Xii (estadio Insular)",
+        "lat": 28.12810555,
+        "lon": -15.43300823
+    },
+    {
+        "id": 273,
+        "name": "Osorio, 28",
+        "lat": 28.15272573,
+        "lon": -15.42627959
+    },
+    {
+        "id": 274,
+        "name": "Pío Xii, 75",
+        "lat": 28.13118786,
+        "lon": -15.4329983
+    },
+    {
+        "id": 275,
+        "name": "Osorio, 58",
+        "lat": 28.15258677,
+        "lon": -15.4246666
+    },
+    {
+        "id": 276,
+        "name": "Galicia (mercado Central)",
+        "lat": 28.13324527,
+        "lon": -15.43320134
+    },
+    {
+        "id": 277,
+        "name": "Felipe Martel (lindero)",
+        "lat": 28.08571029,
+        "lon": -15.4423047
+    },
+    {
+        "id": 278,
+        "name": "Bandama, 25",
+        "lat": 28.15441694,
+        "lon": -15.42509488
+    },
+    {
+        "id": 279,
+        "name": "Primero De Mayo, 56",
+        "lat": 28.10589824,
+        "lon": -15.4199786
+    },
+    {
+        "id": 281,
+        "name": "Ctra. De Mata (pl. Del Pino)",
+        "lat": 28.10778626,
+        "lon": -15.42188017
+    },
+    {
+        "id": 282,
+        "name": "Albareda (mercado Del Puerto)",
+        "lat": 28.14800199,
+        "lon": -15.42933638
+    },
+    {
+        "id": 283,
+        "name": "Ctra. De Mata (san Antonio)",
+        "lat": 28.10701192,
+        "lon": -15.42324324
+    },
+    {
+        "id": 284,
+        "name": "Faro, 11",
+        "lat": 28.14893104,
+        "lon": -15.43031036
+    },
+    {
+        "id": 285,
+        "name": "Pº San Antonio (lópez Orduña)",
+        "lat": 28.112232,
+        "lon": -15.427419
+    },
+    {
+        "id": 286,
+        "name": "Faro, 43",
+        "lat": 28.1506215,
+        "lon": -15.43064643
+    },
+    {
+        "id": 287,
+        "name": "Pº San Antonio, 56",
+        "lat": 28.11380749,
+        "lon": -15.42851541
+    },
+    {
+        "id": 288,
+        "name": "Faro, 99",
+        "lat": 28.15299552,
+        "lon": -15.43081932
+    },
+    {
+        "id": 289,
+        "name": "Mariucha (plaza Don Benito)",
+        "lat": 28.1133318,
+        "lon": -15.43034204
+    },
+    {
+        "id": 290,
+        "name": "Coronel Rocha (nueva Isleta)",
+        "lat": 28.155387,
+        "lon": -15.430764
+    },
+    {
+        "id": 291,
+        "name": "Don Pedro Infinito, 24",
+        "lat": 28.11040879,
+        "lon": -15.4310219
+    },
+    {
+        "id": 292,
+        "name": "Eduardo Peñate Santana, Local 4",
+        "lat": 28.1544677,
+        "lon": -15.42695659
+    },
+    {
+        "id": 293,
+        "name": "Zaragoza, 26",
+        "lat": 28.11115662,
+        "lon": -15.43283535
+    },
+    {
+        "id": 294,
+        "name": "Palmar, Frente 82",
+        "lat": 28.1533389,
+        "lon": -15.42361987
+    },
+    {
+        "id": 295,
+        "name": "Obispo Romo, Frente 27",
+        "lat": 28.11553947,
+        "lon": -15.43583927
+    },
+    {
+        "id": 296,
+        "name": "Ctra. De San Lorenzo, Frente 172",
+        "lat": 28.0840354,
+        "lon": -15.4782515
+    },
+    {
+        "id": 297,
+        "name": "Av. Escaleritas, 51",
+        "lat": 28.11859463,
+        "lon": -15.43707899
+    },
+    {
+        "id": 298,
+        "name": "Ctra. De San Lorenzo, Frente 186",
+        "lat": 28.08161667,
+        "lon": -15.47806667
+    },
+    {
+        "id": 299,
+        "name": "Av. Escaleritas (cáritas)",
+        "lat": 28.12080612,
+        "lon": -15.43648968
+    },
+    {
+        "id": 300,
+        "name": "Don Pedro Infinito (iglesia Los Dolores)",
+        "lat": 28.112326,
+        "lon": -15.429061
+    },
+    {
+        "id": 301,
+        "name": "Av. Escaleritas (club La Cornisa)",
+        "lat": 28.123055,
+        "lon": -15.43593238
+    },
+    {
+        "id": 302,
+        "name": "Alceste, 27",
+        "lat": 28.11021527,
+        "lon": -15.43084876
+    },
+    {
+        "id": 303,
+        "name": "Pº De Chil (estadio Insular)",
+        "lat": 28.12946569,
+        "lon": -15.43483307
+    },
+    {
+        "id": 304,
+        "name": "Zaragoza, 27",
+        "lat": 28.11105065,
+        "lon": -15.43291169
+    },
+    {
+        "id": 305,
+        "name": "Concepción Arenal (pl. De España)",
+        "lat": 28.1337353,
+        "lon": -15.43499338
+    },
+    {
+        "id": 306,
+        "name": "Obispo Romo (mercado De Altavista)",
+        "lat": 28.11460707,
+        "lon": -15.4353696
+    },
+    {
+        "id": 308,
+        "name": "Obispo Romo (parque Hermanos Millares)",
+        "lat": 28.116851,
+        "lon": -15.437046
+    },
+    {
+        "id": 310,
+        "name": "Av. Escaleritas, 48",
+        "lat": 28.12168789,
+        "lon": -15.43650679
+    },
+    {
+        "id": 311,
+        "name": "Tomás Miller (playa De Las Canteras)",
+        "lat": 28.1415406,
+        "lon": -15.43373622
+    },
+    {
+        "id": 312,
+        "name": "Pº De Chil (estadio Insular)",
+        "lat": 28.12817245,
+        "lon": -15.43540648
+    },
+    {
+        "id": 313,
+        "name": "Alfredo L. Jones, 1",
+        "lat": 28.14218938,
+        "lon": -15.43026002
+    },
+    {
+        "id": 314,
+        "name": "Olof Palme, 40",
+        "lat": 28.13333629,
+        "lon": -15.43560616
+    },
+    {
+        "id": 315,
+        "name": "Farmacéutico Pedro Rivero (polígono Cruz De Piedra)",
+        "lat": 28.10202434,
+        "lon": -15.43948537
+    },
+    {
+        "id": 316,
+        "name": "Juan Manuel Durán González, 40",
+        "lat": 28.13526596,
+        "lon": -15.4354956
+    },
+    {
+        "id": 317,
+        "name": "Ctra. De Mata, 42",
+        "lat": 28.106147,
+        "lon": -15.424753
+    },
+    {
+        "id": 318,
+        "name": "Ignacio Pérez Galdós (castillo De Mata)",
+        "lat": 28.10659905,
+        "lon": -15.42246044
+    },
+    {
+        "id": 319,
+        "name": "Ctra. De Mata (parque De Las Rehoyas)",
+        "lat": 28.10619291,
+        "lon": -15.42841554
+    },
+    {
+        "id": 320,
+        "name": "Calzada Lateral Del Norte (divina Pastora)",
+        "lat": 28.10568018,
+        "lon": -15.42711183
+    },
+    {
+        "id": 321,
+        "name": "Ctra. Del Norte, 14",
+        "lat": 28.10563952,
+        "lon": -15.43214646
+    },
+    {
+        "id": 322,
+        "name": "Calzada Lateral Del Norte (c.s. Miller Bajo)",
+        "lat": 28.10471823,
+        "lon": -15.43254494
+    },
+    {
+        "id": 323,
+        "name": "Ctra. Del Norte, 30",
+        "lat": 28.10451564,
+        "lon": -15.43326697
+    },
+    {
+        "id": 324,
+        "name": "Virgen De La Paloma, Frente 19",
+        "lat": 28.10539609,
+        "lon": -15.43450542
+    },
+    {
+        "id": 325,
+        "name": "Sta. Luisa De Marillac, 43",
+        "lat": 28.105855,
+        "lon": -15.433999
+    },
+    {
+        "id": 326,
+        "name": "Virgen De La Paloma (iglesia De La Paz)",
+        "lat": 28.10687535,
+        "lon": -15.43405284
+    },
+    {
+        "id": 327,
+        "name": "Sta. Luisa De Marillac (pl. Martín Cobos)",
+        "lat": 28.10721623,
+        "lon": -15.43320084
+    },
+    {
+        "id": 328,
+        "name": "Don Pedro Infinito, 54",
+        "lat": 28.10967636,
+        "lon": -15.4323729
+    },
+    {
+        "id": 329,
+        "name": "Sta. Luisa De Marillac (bingo Cinema)",
+        "lat": 28.10966293,
+        "lon": -15.43062645
+    },
+    {
+        "id": 330,
+        "name": "Pilar De Lugo Eduardo",
+        "lat": 28.10326461,
+        "lon": -15.43232676
+    },
+    {
+        "id": 331,
+        "name": "Pilar De Lugo Eduardo, 14",
+        "lat": 28.10318122,
+        "lon": -15.43268188
+    },
+    {
+        "id": 332,
+        "name": "Cruz De Piedra, 9",
+        "lat": 28.10293172,
+        "lon": -15.43062065
+    },
+    {
+        "id": 333,
+        "name": "Cruz De Piedra, Frente 7",
+        "lat": 28.10314688,
+        "lon": -15.43046581
+    },
+    {
+        "id": 334,
+        "name": "Carmen Quintana, 1",
+        "lat": 28.102223,
+        "lon": -15.432011
+    },
+    {
+        "id": 335,
+        "name": "Carmen Quintana, Frente 1",
+        "lat": 28.10226217,
+        "lon": -15.43211517
+    },
+    {
+        "id": 336,
+        "name": "Carmen Quintana, 33",
+        "lat": 28.10144835,
+        "lon": -15.4339444
+    },
+    {
+        "id": 337,
+        "name": "Carmen Quintana, Frente 35",
+        "lat": 28.10151622,
+        "lon": -15.43398566
+    },
+    {
+        "id": 338,
+        "name": "Carmen Quintana, 71",
+        "lat": 28.09997865,
+        "lon": -15.43485403
+    },
+    {
+        "id": 339,
+        "name": "Carmen Quintana, Frente 73",
+        "lat": 28.100055,
+        "lon": -15.434912
+    },
+    {
+        "id": 340,
+        "name": "Pino Apolinario, 9",
+        "lat": 28.0984608,
+        "lon": -15.43512848
+    },
+    {
+        "id": 341,
+        "name": "Ana Benítez, Frente 92",
+        "lat": 28.09857019,
+        "lon": -15.4356648
+    },
+    {
+        "id": 342,
+        "name": "Pino Apolinario, 53",
+        "lat": 28.09742072,
+        "lon": -15.43678432
+    },
+    {
+        "id": 343,
+        "name": "Ana Benítez, Frente 42",
+        "lat": 28.09792685,
+        "lon": -15.43818058
+    },
+    {
+        "id": 344,
+        "name": "Párroco Segundo Vega, Frente 238",
+        "lat": 28.09212897,
+        "lon": -15.43261084
+    },
+    {
+        "id": 345,
+        "name": "Ana Benítez, 7",
+        "lat": 28.09673512,
+        "lon": -15.43906161
+    },
+    {
+        "id": 346,
+        "name": "Ctra. De San Lorenzo (barranco)",
+        "lat": 28.07704002,
+        "lon": -15.4788871
+    },
+    {
+        "id": 347,
+        "name": "Pintor Felo Monzón (bambú)",
+        "lat": 28.10889861,
+        "lon": -15.45157945
+    },
+    {
+        "id": 348,
+        "name": "Real Del Castillo",
+        "lat": 28.10379245,
+        "lon": -15.42874764
+    },
+    {
+        "id": 349,
+        "name": "Pepe Dámaso, 32",
+        "lat": 28.09977845,
+        "lon": -15.47786496
+    },
+    {
+        "id": 350,
+        "name": "Real Del Castillo, 117",
+        "lat": 28.10182838,
+        "lon": -15.42342893
+    },
+    {
+        "id": 351,
+        "name": "Real Del Castillo",
+        "lat": 28.10370053,
+        "lon": -15.42868714
+    },
+    {
+        "id": 352,
+        "name": "Farmacéutico Pedro Rivero, 1",
+        "lat": 28.102025,
+        "lon": -15.439651
+    },
+    {
+        "id": 353,
+        "name": "Gobernador Marín Acuña, 50",
+        "lat": 28.10347084,
+        "lon": -15.42559203
+    },
+    {
+        "id": 354,
+        "name": "Cruz Piedra 3eo",
+        "lat": 28.103336334228516,
+        "lon": -15.438694953918457
+    },
+    {
+        "id": 355,
+        "name": "Gobernador Marín Acuña, 24",
+        "lat": 28.10247257,
+        "lon": -15.42409827
+    },
+    {
+        "id": 356,
+        "name": "Farmacéutico Pedro Rivero (joaquín Belón)",
+        "lat": 28.10441357,
+        "lon": -15.437099
+    },
+    {
+        "id": 357,
+        "name": "Juan Carlos I (hospital Dr. Negrín)",
+        "lat": 28.11892357,
+        "lon": -15.44438518
+    },
+    {
+        "id": 358,
+        "name": "C/ Farmaceútico Pedro Rivero (polígono Cruz De Piedra)",
+        "lat": 28.104900360107422,
+        "lon": -15.435851097106934
+    },
+    {
+        "id": 359,
+        "name": "Farmacéutico Pedro Rivero, 20",
+        "lat": 28.10454731,
+        "lon": -15.43637613
+    },
+    {
+        "id": 360,
+        "name": "Agustina De Aragón, 67",
+        "lat": 28.10784866,
+        "lon": -15.43466335
+    },
+    {
+        "id": 361,
+        "name": "Benecharo (la Naval)",
+        "lat": 28.15005752,
+        "lon": -15.42390665
+    },
+    {
+        "id": 362,
+        "name": "Agustina De Aragón, 145",
+        "lat": 28.10626085,
+        "lon": -15.43760978
+    },
+    {
+        "id": 363,
+        "name": "Don Pedro Infinito, 120",
+        "lat": 28.108443,
+        "lon": -15.434695
+    },
+    {
+        "id": 364,
+        "name": "Agustina De Aragón (iglesia San Marcos)",
+        "lat": 28.10548794,
+        "lon": -15.43923615
+    },
+    {
+        "id": 365,
+        "name": "Don Pedro Infinito, 152",
+        "lat": 28.10767575,
+        "lon": -15.43613
+    },
+    {
+        "id": 366,
+        "name": "Av. Escaleritas, 114",
+        "lat": 28.10983953,
+        "lon": -15.43983806
+    },
+    {
+        "id": 367,
+        "name": "Don Pedro Infinito, 194",
+        "lat": 28.10659205,
+        "lon": -15.43822767
+    },
+    {
+        "id": 368,
+        "name": "Av. Escaleritas, 104",
+        "lat": 28.112504,
+        "lon": -15.439209
+    },
+    {
+        "id": 369,
+        "name": "Don Pedro Infinito, 204",
+        "lat": 28.10592524,
+        "lon": -15.43969466
+    },
+    {
+        "id": 370,
+        "name": "Av. Escaleritas, 84",
+        "lat": 28.11484751,
+        "lon": -15.43853624
+    },
+    {
+        "id": 371,
+        "name": "Av. Escaleritas, 109",
+        "lat": 28.107655,
+        "lon": -15.440022
+    },
+    {
+        "id": 372,
+        "name": "Av. Escaleritas, 70",
+        "lat": 28.117917,
+        "lon": -15.4375
+    },
+    {
+        "id": 373,
+        "name": "Av. Escaleritas, 95",
+        "lat": 28.11011061,
+        "lon": -15.43956023
+    },
+    {
+        "id": 374,
+        "name": "Ctra. Del Norte (ies Cruz De Piedra)",
+        "lat": 28.10250537,
+        "lon": -15.4368427
+    },
+    {
+        "id": 375,
+        "name": "Av. Escaleritas, 79",
+        "lat": 28.11276772,
+        "lon": -15.43892124
+    },
+    {
+        "id": 376,
+        "name": "Ctra. Del Norte (frente C.c. La Ballena)",
+        "lat": 28.09995008,
+        "lon": -15.44217682
+    },
+    {
+        "id": 377,
+        "name": "Av. Escaleritas, 57",
+        "lat": 28.114803,
+        "lon": -15.438315
+    },
+    {
+        "id": 378,
+        "name": "Manuel De Falla (salida De La Paterna)",
+        "lat": 28.09683443,
+        "lon": -15.44746392
+    },
+    {
+        "id": 379,
+        "name": "Ctra. Del Norte, 40",
+        "lat": 28.103794,
+        "lon": -15.434173
+    },
+    {
+        "id": 380,
+        "name": "Ctra. Del Norte (c.c. La Ballena)",
+        "lat": 28.10023576,
+        "lon": -15.44269511
+    },
+    {
+        "id": 381,
+        "name": "Ctra. Del Norte, 68",
+        "lat": 28.10219264,
+        "lon": -15.43799181
+    },
+    {
+        "id": 382,
+        "name": "Ctra. De San Lorenzo, 383",
+        "lat": 28.07877087,
+        "lon": -15.46436433
+    },
+    {
+        "id": 384,
+        "name": "Henry Dunant, Frente 42",
+        "lat": 28.111534,
+        "lon": -15.437318
+    },
+    {
+        "id": 385,
+        "name": "Ctra. Del Norte (los Tarahales)",
+        "lat": 28.09817151,
+        "lon": -15.44707158
+    },
+    {
+        "id": 386,
+        "name": "Cronista Martín Moreno, 8",
+        "lat": 28.09692058,
+        "lon": -15.4443966
+    },
+    {
+        "id": 387,
+        "name": "Acceso Manuel De Falla",
+        "lat": 28.09668618,
+        "lon": -15.4478922
+    },
+    {
+        "id": 388,
+        "name": "Pepe Dámaso, 43",
+        "lat": 28.09966983,
+        "lon": -15.47757964
+    },
+    {
+        "id": 389,
+        "name": "Manuel De Falla, Frente 118",
+        "lat": 28.09682659,
+        "lon": -15.44650644
+    },
+    {
+        "id": 390,
+        "name": "Ctra. Del Norte, 234",
+        "lat": 28.0975534,
+        "lon": -15.448577
+    },
+    {
+        "id": 391,
+        "name": "Manuel De Falla, Frente 11",
+        "lat": 28.09471138,
+        "lon": -15.44703379
+    },
+    {
+        "id": 392,
+        "name": "Av. Escaleritas, 169",
+        "lat": 28.09961686,
+        "lon": -15.4482085
+    },
+    {
+        "id": 393,
+        "name": "Manuel De Falla, Frente 84",
+        "lat": 28.09376748,
+        "lon": -15.44771361
+    },
+    {
+        "id": 394,
+        "name": "Av. Escaleritas (urb. Parque Central)",
+        "lat": 28.10160327,
+        "lon": -15.44635541
+    },
+    {
+        "id": 395,
+        "name": "Manuel De Falla, Frente 72",
+        "lat": 28.09204925,
+        "lon": -15.44866234
+    },
+    {
+        "id": 396,
+        "name": "Néstor De La Torre (mercado Central)",
+        "lat": 28.13387101,
+        "lon": -15.43231803
+    },
+    {
+        "id": 397,
+        "name": "Emilio Arrieta, Frente 7",
+        "lat": 28.09443851,
+        "lon": -15.44963731
+    },
+    {
+        "id": 398,
+        "name": "Mesa Y López (c.s. Alcaravaneras)",
+        "lat": 28.13355997,
+        "lon": -15.43605426
+    },
+    {
+        "id": 399,
+        "name": "Ctra. Del Norte (los Tarahales)",
+        "lat": 28.09703875,
+        "lon": -15.44800104
+    },
+    {
+        "id": 400,
+        "name": "Mesa Y López (madera Y Corcho)",
+        "lat": 28.13146244,
+        "lon": -15.43860728
+    },
+    {
+        "id": 401,
+        "name": "Av. Escaleritas, 178",
+        "lat": 28.10043835,
+        "lon": -15.44779524
+    },
+    {
+        "id": 402,
+        "name": "Costa Rica, Frente 33",
+        "lat": 28.13057562,
+        "lon": -15.44015525
+    },
+    {
+        "id": 403,
+        "name": "Juan Carlos I, 50",
+        "lat": 28.113198,
+        "lon": -15.45011
+    },
+    {
+        "id": 404,
+        "name": "Juan Carlos I (c.c. Las Ramblas)",
+        "lat": 28.1137685,
+        "lon": -15.44927462
+    },
+    {
+        "id": 405,
+        "name": "Ctra. Del Norte, 225",
+        "lat": 28.09781972,
+        "lon": -15.44864853
+    },
+    {
+        "id": 406,
+        "name": "Castillejos, 23",
+        "lat": 28.12993446,
+        "lon": -15.44268981
+    },
+    {
+        "id": 407,
+        "name": "Ind. José Sánchez Peñate (c.c. Las Arenas)",
+        "lat": 28.12836942,
+        "lon": -15.44727828
+    },
+    {
+        "id": 408,
+        "name": "Castillejos, 71",
+        "lat": 28.12824465,
+        "lon": -15.44480135
+    },
+    {
+        "id": 409,
+        "name": "Mesa Y López (c.s. Alcaravaneras)",
+        "lat": 28.13359792,
+        "lon": -15.43633527
+    },
+    {
+        "id": 410,
+        "name": "Numancia, 68",
+        "lat": 28.13034744,
+        "lon": -15.44549834
+    },
+    {
+        "id": 411,
+        "name": "Mesa Y López (madera Y Corcho)",
+        "lat": 28.13188393,
+        "lon": -15.4384501
+    },
+    {
+        "id": 412,
+        "name": "Pl. De San Lorenzo",
+        "lat": 28.07613727,
+        "lon": -15.47631371
+    },
+    {
+        "id": 413,
+        "name": "Fernando Guanarteme, 118",
+        "lat": 28.13247544,
+        "lon": -15.44074408
+    },
+    {
+        "id": 414,
+        "name": "María Dolorosa, 1",
+        "lat": 28.16460815,
+        "lon": -15.43425559
+    },
+    {
+        "id": 415,
+        "name": "Simancas, 70",
+        "lat": 28.12976843,
+        "lon": -15.44406523
+    },
+    {
+        "id": 416,
+        "name": "Ctra. De San Lorenzo, Frente 282",
+        "lat": 28.07578207,
+        "lon": -15.47401197
+    },
+    {
+        "id": 417,
+        "name": "Pérez Muñoz, 34",
+        "lat": 28.1499533,
+        "lon": -15.42700365
+    },
+    {
+        "id": 418,
+        "name": "L. Suárez Rivero, 9",
+        "lat": 28.07624321,
+        "lon": -15.47270363
+    },
+    {
+        "id": 419,
+        "name": "Pérez Muñoz, 78",
+        "lat": 28.15159796,
+        "lon": -15.4273776
+    },
+    {
+        "id": 420,
+        "name": "Centro Deportivo San Lorenzo",
+        "lat": 28.07365,
+        "lon": -15.468
+    },
+    {
+        "id": 421,
+        "name": "Pérez Muñoz, 100",
+        "lat": 28.15289311,
+        "lon": -15.42765421
+    },
+    {
+        "id": 422,
+        "name": "Camilo Martinón Navarro, 52",
+        "lat": 28.07471091,
+        "lon": -15.46515619
+    },
+    {
+        "id": 423,
+        "name": "Auditorio",
+        "lat": 28.12971272,
+        "lon": -15.44755935
+    },
+    {
+        "id": 424,
+        "name": "San Andrés, 28",
+        "lat": 28.09533035,
+        "lon": -15.48173436
+    },
+    {
+        "id": 425,
+        "name": "Avda. Semana De La Pasion, 29",
+        "lat": 28.16514015197754,
+        "lon": -15.435152053833008
+    },
+    {
+        "id": 426,
+        "name": "San Fermín, 20",
+        "lat": 28.09465235,
+        "lon": -15.48335249
+    },
+    {
+        "id": 427,
+        "name": "Parque Santa Catalina",
+        "lat": 28.14032572,
+        "lon": -15.43078623
+    },
+    {
+        "id": 428,
+        "name": "Galilea, 20",
+        "lat": 28.09293096,
+        "lon": -15.48559476
+    },
+    {
+        "id": 429,
+        "name": "Parque Santa Catalina",
+        "lat": 28.14065106,
+        "lon": -15.43080396
+    },
+    {
+        "id": 430,
+        "name": "Camilo Martinón Navarro, 30",
+        "lat": 28.07477489,
+        "lon": -15.46373875
+    },
+    {
+        "id": 431,
+        "name": "Real De San Juan, 2",
+        "lat": 28.09873337,
+        "lon": -15.41775943
+    },
+    {
+        "id": 432,
+        "name": "Carretera De San Lorenzo, Frente 230",
+        "lat": 28.07681437,
+        "lon": -15.47807658
+    },
+    {
+        "id": 433,
+        "name": "Real De San Juan, 14",
+        "lat": 28.09838024,
+        "lon": -15.41940149
+    },
+    {
+        "id": 434,
+        "name": "Juan Sánchez De La Coba, 16",
+        "lat": 28.0809399,
+        "lon": -15.41967693
+    },
+    {
+        "id": 435,
+        "name": "Real De San Juan, Frente 89",
+        "lat": 28.09770084,
+        "lon": -15.42052588
+    },
+    {
+        "id": 436,
+        "name": "Ctra. Del Centro (barranco Seco)",
+        "lat": 28.094128,
+        "lon": -15.424663
+    },
+    {
+        "id": 437,
+        "name": "Mesa Y López, 86",
+        "lat": 28.13008803,
+        "lon": -15.44059819
+    },
+    {
+        "id": 438,
+        "name": "Severo Ochoa (c.s. El Batán)",
+        "lat": 28.09570028,
+        "lon": -15.4252457
+    },
+    {
+        "id": 439,
+        "name": "Ind. José Sánchez Peñate (c.c. Las Arenas)",
+        "lat": 28.12804445,
+        "lon": -15.44695504
+    },
+    {
+        "id": 440,
+        "name": "José Luis Guerra De Armas (cruce De Las Coloradas)",
+        "lat": 28.15507903,
+        "lon": -15.42960237
+    },
+    {
+        "id": 441,
+        "name": "León Y Castillo (club Náutico)",
+        "lat": 28.13286013,
+        "lon": -15.42957828
+    },
+    {
+        "id": 442,
+        "name": "Cruz Del Ovejero, 28",
+        "lat": 28.09851349,
+        "lon": -15.47743023
+    },
+    {
+        "id": 444,
+        "name": "Ctra. Gral. Tamaraceite, 172",
+        "lat": 28.09820212,
+        "lon": -15.47506598
+    },
+    {
+        "id": 445,
+        "name": "Ciudad Deportiva Gran Canaria",
+        "lat": 28.07690029,
+        "lon": -15.41727242
+    },
+    {
+        "id": 446,
+        "name": "Ctra. Gral. Tamaraceite, 140",
+        "lat": 28.09681726,
+        "lon": -15.47366362
+    },
+    {
+        "id": 447,
+        "name": "Amurga (casablanca)",
+        "lat": 28.07575109,
+        "lon": -15.41892348
+    },
+    {
+        "id": 449,
+        "name": "Sabino Berthelot (pº Blas Cabrera Felipe)",
+        "lat": 28.0799048,
+        "lon": -15.41839898
+    },
+    {
+        "id": 450,
+        "name": "Ctra. De Tamaraceite (rotonda Lomo Los Frailes)",
+        "lat": 28.096809,
+        "lon": -15.46694
+    },
+    {
+        "id": 451,
+        "name": "Dr. Sventenius",
+        "lat": 28.08093765,
+        "lon": -15.41865902
+    },
+    {
+        "id": 452,
+        "name": "Ctra. De Tamaraceite (urb. La Guillena)",
+        "lat": 28.095969,
+        "lon": -15.462497
+    },
+    {
+        "id": 453,
+        "name": "León Xiii",
+        "lat": 28.10657983,
+        "lon": -15.42540633
+    },
+    {
+        "id": 454,
+        "name": "Mimosa (gardenia)",
+        "lat": 28.11515937,
+        "lon": -15.45042666
+    },
+    {
+        "id": 455,
+        "name": "San Cristóbal De La Laguna, 196",
+        "lat": 28.0673392,
+        "lon": -15.43055699
+    },
+    {
+        "id": 456,
+        "name": "Ctra. De Tamaraceite, Frente 71",
+        "lat": 28.09820291,
+        "lon": -15.46199721
+    },
+    {
+        "id": 457,
+        "name": "José Luis Guerra De Armas (alonso Quijano)",
+        "lat": 28.1545701,
+        "lon": -15.42824975
+    },
+    {
+        "id": 458,
+        "name": "Ctra. De Tamaraceite (las Perreras)",
+        "lat": 28.10340273,
+        "lon": -15.46209377
+    },
+    {
+        "id": 459,
+        "name": "Cruz Del Ovejero, 25",
+        "lat": 28.09845968,
+        "lon": -15.47722238
+    },
+    {
+        "id": 460,
+        "name": "Ctra. De Tamaraceite, Frente 21",
+        "lat": 28.10656704,
+        "lon": -15.46064323
+    },
+    {
+        "id": 461,
+        "name": "Ctra. De Tamaraceite, 171",
+        "lat": 28.09797373,
+        "lon": -15.47495281
+    },
+    {
+        "id": 462,
+        "name": "Ctra. De Tamaraceite (urb. Ind. Lomo Blanco)",
+        "lat": 28.110043,
+        "lon": -15.458486
+    },
+    {
+        "id": 463,
+        "name": "Ctra. De Tamaraceite, 143",
+        "lat": 28.09697278,
+        "lon": -15.47392197
+    },
+    {
+        "id": 464,
+        "name": "Ctra. Del Cardón (cruce Las Torres)",
+        "lat": 28.11537671,
+        "lon": -15.45539082
+    },
+    {
+        "id": 465,
+        "name": "Gloria (agustina De Aragón)",
+        "lat": 28.10784587,
+        "lon": -15.42480201
+    },
+    {
+        "id": 466,
+        "name": "Ctra. Del Cardón (urb. Díaz Casanovas)",
+        "lat": 28.117215,
+        "lon": -15.454879
+    },
+    {
+        "id": 467,
+        "name": "R. Mesa Y López (ceip Timplista José Antonio Ramos)",
+        "lat": 28.10942745,
+        "lon": -15.42535856
+    },
+    {
+        "id": 468,
+        "name": "Ctra. Del Cardón, Frente 49",
+        "lat": 28.119246,
+        "lon": -15.45218874
+    },
+    {
+        "id": 469,
+        "name": "Ctra. De Tamaraceite (rotonda Lomo Los Frailes)",
+        "lat": 28.09638125,
+        "lon": -15.46514011
+    },
+    {
+        "id": 470,
+        "name": "Ctra. De Chile, Frente 91",
+        "lat": 28.1205926,
+        "lon": -15.44795693
+    },
+    {
+        "id": 471,
+        "name": "Ctra. De Tamaraceite (urb. La Guillena)",
+        "lat": 28.0958376,
+        "lon": -15.46257458
+    },
+    {
+        "id": 472,
+        "name": "Ctra. De Chile, 68",
+        "lat": 28.12321724,
+        "lon": -15.44680022
+    },
+    {
+        "id": 473,
+        "name": "Ctra. Tamaraceite (las Perreras)",
+        "lat": 28.09800342,
+        "lon": -15.46181343
+    },
+    {
+        "id": 474,
+        "name": "Ctra. De Chile (campo De Golf)",
+        "lat": 28.12606489,
+        "lon": -15.44533125
+    },
+    {
+        "id": 475,
+        "name": "Ctra. Tamaraceite, Frente 62",
+        "lat": 28.10302,
+        "lon": -15.462239
+    },
+    {
+        "id": 476,
+        "name": "Luchana (lepanto)",
+        "lat": 28.12798471,
+        "lon": -15.44309903
+    },
+    {
+        "id": 477,
+        "name": "Ctra. De Tamaraceite (las Majadillas)",
+        "lat": 28.107193,
+        "lon": -15.460043
+    },
+    {
+        "id": 479,
+        "name": "Ctra. Tamaraceite (danone)",
+        "lat": 28.110018,
+        "lon": -15.45838
+    },
+    {
+        "id": 480,
+        "name": "Camilo Martinón Navarro (tiscamanita)",
+        "lat": 28.07608398,
+        "lon": -15.46347002
+    },
+    {
+        "id": 481,
+        "name": "Ctra. Del Cardón (cruce Las Torres)",
+        "lat": 28.11552611,
+        "lon": -15.45524008
+    },
+    {
+        "id": 482,
+        "name": "Fernando Guanarteme, 62",
+        "lat": 28.13425793,
+        "lon": -15.43864987
+    },
+    {
+        "id": 483,
+        "name": "Ctra. Del Cardón (urb. Díaz Casanovas)",
+        "lat": 28.1175559,
+        "lon": -15.45430995
+    },
+    {
+        "id": 484,
+        "name": "Ctra. De Almatriche, 30",
+        "lat": 28.07819476,
+        "lon": -15.46198505
+    },
+    {
+        "id": 485,
+        "name": "Ctra. Del Cardón, 41",
+        "lat": 28.11932269,
+        "lon": -15.45171311
+    },
+    {
+        "id": 486,
+        "name": "Fernando Guanarteme (plta. Farray)",
+        "lat": 28.13690609,
+        "lon": -15.43560278
+    },
+    {
+        "id": 487,
+        "name": "Camino Viejo El Cardón, 1",
+        "lat": 28.119415,
+        "lon": -15.448065
+    },
+    {
+        "id": 488,
+        "name": "Fernando Guanarteme (pl. Betancores)",
+        "lat": 28.13791231,
+        "lon": -15.43450775
+    },
+    {
+        "id": 489,
+        "name": "Ctra. De Chile, 75",
+        "lat": 28.12200319,
+        "lon": -15.44707911
+    },
+    {
+        "id": 490,
+        "name": "Junco (amapola)",
+        "lat": 28.11040447,
+        "lon": -15.4540647
+    },
+    {
+        "id": 491,
+        "name": "Ctra. De Chile, 45",
+        "lat": 28.12343135,
+        "lon": -15.44673943
+    },
+    {
+        "id": 492,
+        "name": "Ctra. De Almatriche, 138",
+        "lat": 28.08384489,
+        "lon": -15.46164149
+    },
+    {
+        "id": 493,
+        "name": "Ctra. De Chile (campo De Golf)",
+        "lat": 28.12548311,
+        "lon": -15.44596575
+    },
+    {
+        "id": 494,
+        "name": "Munguía, 8",
+        "lat": 28.10628901,
+        "lon": -15.41529528
+    },
+    {
+        "id": 495,
+        "name": "Lepanto, 63",
+        "lat": 28.12776724,
+        "lon": -15.44303675
+    },
+    {
+        "id": 496,
+        "name": "Rafael Cabrera (san Telmo)",
+        "lat": 28.10874434,
+        "lon": -15.4159336
+    },
+    {
+        "id": 497,
+        "name": "Mesa Y López, 85",
+        "lat": 28.12973954,
+        "lon": -15.4406823
+    },
+    {
+        "id": 498,
+        "name": "Las Torres (tanatorio)",
+        "lat": 28.11271671,
+        "lon": -15.45497396
+    },
+    {
+        "id": 499,
+        "name": "R. Mesa Y López (el Audaz)",
+        "lat": 28.11095829,
+        "lon": -15.42730261
+    },
+    {
+        "id": 500,
+        "name": "Arequipa (guaguas Municipales)",
+        "lat": 28.15654496,
+        "lon": -15.42173551
+    },
+    {
+        "id": 501,
+        "name": "Madreselva, Frente 69",
+        "lat": 28.11178743,
+        "lon": -15.45248011
+    },
+    {
+        "id": 502,
+        "name": "Las Torres (tanatorio)",
+        "lat": 28.11326083,
+        "lon": -15.45455575
+    },
+    {
+        "id": 503,
+        "name": "Miguel Martín Fernández De La Torre (frente Centro De Menores)",
+        "lat": 28.0578821,
+        "lon": -15.44177095
+    },
+    {
+        "id": 504,
+        "name": "Ctra. De Almatriche, 94",
+        "lat": 28.08628079,
+        "lon": -15.45911917
+    },
+    {
+        "id": 505,
+        "name": "Miguel Martín Fernández De La Torre (manuel Oraá)",
+        "lat": 28.05788137,
+        "lon": -15.44528389
+    },
+    {
+        "id": 506,
+        "name": "Mimosa, 27-29",
+        "lat": 28.11475511,
+        "lon": -15.45066714
+    },
+    {
+        "id": 507,
+        "name": "Ignacio Pérez Galdós",
+        "lat": 28.10524735,
+        "lon": -15.42584632
+    },
+    {
+        "id": 508,
+        "name": "Madreselva",
+        "lat": 28.11244264,
+        "lon": -15.45392114
+    },
+    {
+        "id": 509,
+        "name": "Cruce De La Montañeta",
+        "lat": 28.05721273,
+        "lon": -15.44888206
+    },
+    {
+        "id": 510,
+        "name": "Aconcagua, 1",
+        "lat": 28.09415819,
+        "lon": -15.43944544
+    },
+    {
+        "id": 511,
+        "name": "Juan Manuel Durán González (bernardo De La Torre)",
+        "lat": 28.13537591,
+        "lon": -15.43404839
+    },
+    {
+        "id": 512,
+        "name": "Aconcagua (colegio Casablanca Iii)",
+        "lat": 28.09358878,
+        "lon": -15.44249855
+    },
+    {
+        "id": 513,
+        "name": "Lentini (monopol)",
+        "lat": 28.10231351,
+        "lon": -15.41517606
+    },
+    {
+        "id": 514,
+        "name": "San Cristóbal (estribor)",
+        "lat": 28.07627947,
+        "lon": -15.41524849
+    },
+    {
+        "id": 515,
+        "name": "Pino Apolinario (centro Cívico)",
+        "lat": 28.09482887,
+        "lon": -15.4390911
+    },
+    {
+        "id": 516,
+        "name": "Av. Marítima (san Cristóbal)",
+        "lat": 28.07997344,
+        "lon": -15.41592869
+    },
+    {
+        "id": 517,
+        "name": "Aconcagua (colegio Casablanca Iii)",
+        "lat": 28.09379555,
+        "lon": -15.44242272
+    },
+    {
+        "id": 518,
+        "name": "Archivero Joaquín Blanco Montesdeoca (pedro Barber)",
+        "lat": 28.11264997,
+        "lon": -15.45157819
+    },
+    {
+        "id": 519,
+        "name": "Archivero Joaquín Blanco Montesdeoca (mimosa)",
+        "lat": 28.11297418,
+        "lon": -15.45153947
+    },
+    {
+        "id": 520,
+        "name": "Archivero Joaquín Blanco Montesdeoca, 21",
+        "lat": 28.11377304,
+        "lon": -15.45366599
+    },
+    {
+        "id": 521,
+        "name": "Pº San Antonio, 4",
+        "lat": 28.10791577,
+        "lon": -15.42244699
+    },
+    {
+        "id": 522,
+        "name": "Pº San Antonio, 27",
+        "lat": 28.10807649,
+        "lon": -15.4225061
+    },
+    {
+        "id": 523,
+        "name": "Rafael Cabrera (teatro)",
+        "lat": 28.1042699,
+        "lon": -15.41373656
+    },
+    {
+        "id": 524,
+        "name": "Pº San Antonio, 85",
+        "lat": 28.11216365,
+        "lon": -15.42750149
+    },
+    {
+        "id": 525,
+        "name": "Arminda, Frente 1",
+        "lat": 28.08487416,
+        "lon": -15.43732423
+    },
+    {
+        "id": 526,
+        "name": "San Cristóbal (acceso Avda. Marítima)",
+        "lat": 28.0797041,
+        "lon": -15.41570158
+    },
+    {
+        "id": 527,
+        "name": "Farmacéutico Arencibia Cabrera, 28",
+        "lat": 28.08730238,
+        "lon": -15.43500149
+    },
+    {
+        "id": 528,
+        "name": "Tafira Baja",
+        "lat": 28.07219945,
+        "lon": -15.44969635
+    },
+    {
+        "id": 529,
+        "name": "Archivero Joaquín Blanco Montesdeoca (rtda. Nicolás Díaz Chico)",
+        "lat": 28.11459034,
+        "lon": -15.45479426
+    },
+    {
+        "id": 530,
+        "name": "Alcalde Díaz Saavedra Navarro (prudencio Guzmán)",
+        "lat": 28.09654898,
+        "lon": -15.41240578
+    },
+    {
+        "id": 531,
+        "name": "Veracruz, 16",
+        "lat": 28.06313583,
+        "lon": -15.42448423
+    },
+    {
+        "id": 532,
+        "name": "Farmacéutico Arencibia Cabrera, Frente 18",
+        "lat": 28.08753762,
+        "lon": -15.43463279
+    },
+    {
+        "id": 533,
+        "name": "Marianao, 60",
+        "lat": 28.06148008,
+        "lon": -15.42866242
+    },
+    {
+        "id": 534,
+        "name": "Pino Apolinario (iglesia Lomo Apolinario)",
+        "lat": 28.09606358,
+        "lon": -15.43821409
+    },
+    {
+        "id": 535,
+        "name": "Monterrey, 1",
+        "lat": 28.06101268,
+        "lon": -15.43054257
+    },
+    {
+        "id": 536,
+        "name": "Buenos Aires, 43",
+        "lat": 28.10709462,
+        "lon": -15.42001072
+    },
+    {
+        "id": 537,
+        "name": "María Arencibia Cabrera",
+        "lat": 28.09777746,
+        "lon": -15.47733915
+    },
+    {
+        "id": 538,
+        "name": "María Arencibia Cabrera",
+        "lat": 28.09764831,
+        "lon": -15.47762895
+    },
+    {
+        "id": 540,
+        "name": "Arminda (la Favorita)",
+        "lat": 28.08502373,
+        "lon": -15.43726612
+    },
+    {
+        "id": 541,
+        "name": "Amurga (iglesia)",
+        "lat": 28.07679758,
+        "lon": -15.42599958
+    },
+    {
+        "id": 542,
+        "name": "Woermann",
+        "lat": 28.14524294,
+        "lon": -15.42956115
+    },
+    {
+        "id": 543,
+        "name": "Profesor Lozano (canarias 7)",
+        "lat": 28.15602513,
+        "lon": -15.417692
+    },
+    {
+        "id": 544,
+        "name": "Marianao, 5",
+        "lat": 28.06337698,
+        "lon": -15.42262054
+    },
+    {
+        "id": 545,
+        "name": "Pl. Barranco La Ballena",
+        "lat": 28.11378567,
+        "lon": -15.44654109
+    },
+    {
+        "id": 546,
+        "name": "Marianao, 53",
+        "lat": 28.06233582,
+        "lon": -15.42509372
+    },
+    {
+        "id": 547,
+        "name": "Virgen Del Pilar, 28",
+        "lat": 28.11628439,
+        "lon": -15.44497616
+    },
+    {
+        "id": 548,
+        "name": "Marianao, 103",
+        "lat": 28.0615379,
+        "lon": -15.42769719
+    },
+    {
+        "id": 549,
+        "name": "Camino Viejo El Cardón, Frente 74",
+        "lat": 28.115851,
+        "lon": -15.454871
+    },
+    {
+        "id": 550,
+        "name": "Campo De Fútbol El Lasso",
+        "lat": 28.07510974,
+        "lon": -15.42390013
+    },
+    {
+        "id": 551,
+        "name": "Camino Viejo El Cardón, 55",
+        "lat": 28.11801235,
+        "lon": -15.45262649
+    },
+    {
+        "id": 552,
+        "name": "Profesor Lozano, 10",
+        "lat": 28.15616443,
+        "lon": -15.4169337
+    },
+    {
+        "id": 553,
+        "name": "Carretera Del Centro (registro Ulpgc)",
+        "lat": 28.09765598,
+        "lon": -15.42138963
+    },
+    {
+        "id": 554,
+        "name": "Dr. Juan Domínguez Pérez, 25",
+        "lat": 28.15831285,
+        "lon": -15.4138349
+    },
+    {
+        "id": 555,
+        "name": "Dr. Juan Domínguez Pérez, 2",
+        "lat": 28.15650663,
+        "lon": -15.41538347
+    },
+    {
+        "id": 556,
+        "name": "Amurga, Frente Iglesia",
+        "lat": 28.07672085,
+        "lon": -15.42611416
+    },
+    {
+        "id": 557,
+        "name": "Dr. Juan Domínguez Pérez, 18",
+        "lat": 28.15967767,
+        "lon": -15.41215611
+    },
+    {
+        "id": 558,
+        "name": "Virgen Del Pilar (pl. Barranco De La Ballena)",
+        "lat": 28.11369031,
+        "lon": -15.44683802
+    },
+    {
+        "id": 559,
+        "name": "Campo De Fútbol El Lasso",
+        "lat": 28.07518313,
+        "lon": -15.42389207
+    },
+    {
+        "id": 560,
+        "name": "Virgen Del Pilar, Frente 26",
+        "lat": 28.11580577,
+        "lon": -15.44559363
+    },
+    {
+        "id": 561,
+        "name": "Ctra. Del Cardón, Frente 118",
+        "lat": 28.11954534,
+        "lon": -15.44808653
+    },
+    {
+        "id": 562,
+        "name": "Manuel De Falla (nueva Paterna)",
+        "lat": 28.0900756,
+        "lon": -15.45037105
+    },
+    {
+        "id": 563,
+        "name": "Ctra. Lomo Blanco (ies Felo Monzón)",
+        "lat": 28.08183197,
+        "lon": -15.44717101
+    },
+    {
+        "id": 564,
+        "name": "Manuel De Falla, Frente 52",
+        "lat": 28.09084298,
+        "lon": -15.45065649
+    },
+    {
+        "id": 565,
+        "name": "Ctra. Lomo Blanco, 94",
+        "lat": 28.0777103,
+        "lon": -15.44837508
+    },
+    {
+        "id": 566,
+        "name": "Manuel De Falla (colegio La Paterna)",
+        "lat": 28.09233677,
+        "lon": -15.44942352
+    },
+    {
+        "id": 567,
+        "name": "Ctra. Lomo Blanco (urb. El Zurbarán)",
+        "lat": 28.07605634,
+        "lon": -15.44965018
+    },
+    {
+        "id": 568,
+        "name": "Dr. Juan Domínguez Pérez, 49",
+        "lat": 28.16023381,
+        "lon": -15.4118986
+    },
+    {
+        "id": 569,
+        "name": "Veracruz, 36",
+        "lat": 28.06244067,
+        "lon": -15.42666283
+    },
+    {
+        "id": 570,
+        "name": "Zaragoza (don Pedro Infinito)",
+        "lat": 28.10952859,
+        "lon": -15.43179345
+    },
+    {
+        "id": 571,
+        "name": "Costa Rica",
+        "lat": 28.13020814,
+        "lon": -15.43957751
+    },
+    {
+        "id": 572,
+        "name": "Juan Manuel Durán González (el Corte Inglés)",
+        "lat": 28.1354679,
+        "lon": -15.43258464
+    },
+    {
+        "id": 573,
+        "name": "Miguel Curbelo (autoridad Portuaria)",
+        "lat": 28.14746999,
+        "lon": -15.41944519
+    },
+    {
+        "id": 574,
+        "name": "Ctra. Del Centro (teatro Guiniguada)",
+        "lat": 28.10218437,
+        "lon": -15.41489331
+    },
+    {
+        "id": 575,
+        "name": "Av. Los Cambulloneros",
+        "lat": 28.14520028,
+        "lon": -15.41617123
+    },
+    {
+        "id": 576,
+        "name": "Pepe Dámaso, 17",
+        "lat": 28.10042345,
+        "lon": -15.47440757
+    },
+    {
+        "id": 577,
+        "name": "Muelle De León Y Castillo (gasolinera De Bp)",
+        "lat": 28.14805283,
+        "lon": -15.41680789
+    },
+    {
+        "id": 578,
+        "name": "Ctra. Lomo Blanco (urb. El Zurbarán)",
+        "lat": 28.0758228,
+        "lon": -15.44961066
+    },
+    {
+        "id": 579,
+        "name": "Av. De Las Petrolíferas (depósitos Comerciales)",
+        "lat": 28.15321039,
+        "lon": -15.41446462
+    },
+    {
+        "id": 580,
+        "name": "Ctra. Lomo Blanco, 81",
+        "lat": 28.07996776,
+        "lon": -15.44734574
+    },
+    {
+        "id": 581,
+        "name": "Pepe Dámaso, 12",
+        "lat": 28.10059141,
+        "lon": -15.47450911
+    },
+    {
+        "id": 582,
+        "name": "Ctra. Lomo Blanco, Frente 51",
+        "lat": 28.08190527,
+        "lon": -15.44702524
+    },
+    {
+        "id": 583,
+        "name": "Betania, 69",
+        "lat": 28.10085208,
+        "lon": -15.46958906
+    },
+    {
+        "id": 584,
+        "name": "Carretera Del Centro (colegio San Juan Bosco)",
+        "lat": 28.09640708,
+        "lon": -15.42261943
+    },
+    {
+        "id": 585,
+        "name": "Betania, 41",
+        "lat": 28.1021877,
+        "lon": -15.46855411
+    },
+    {
+        "id": 586,
+        "name": "Miguel Curbelo (autoridad Portuaria)",
+        "lat": 28.14761894,
+        "lon": -15.41959613
+    },
+    {
+        "id": 587,
+        "name": "Betania, 7",
+        "lat": 28.10347977,
+        "lon": -15.4675699
+    },
+    {
+        "id": 588,
+        "name": "Muelle De León Y Castillo (gasolinera De Bp)",
+        "lat": 28.15053671,
+        "lon": -15.41716683
+    },
+    {
+        "id": 590,
+        "name": "Av. De Las Petrolíferas (depósitos Comerciales)",
+        "lat": 28.15370725,
+        "lon": -15.4142645
+    },
+    {
+        "id": 591,
+        "name": "Av. De Las Petrolíferas (astican)",
+        "lat": 28.15633593,
+        "lon": -15.41180648
+    },
+    {
+        "id": 592,
+        "name": "Av. De Las Petrolíferas (astican)",
+        "lat": 28.15665976,
+        "lon": -15.41200213
+    },
+    {
+        "id": 593,
+        "name": "Av. De Las Petrolíferas (repnaval - Grupo Zamakona)",
+        "lat": 28.1600175,
+        "lon": -15.40959689
+    },
+    {
+        "id": 594,
+        "name": "Av. De Las Petrolíferas (repnaval - Grupo Zamakona)",
+        "lat": 28.16008567,
+        "lon": -15.40987283
+    },
+    {
+        "id": 595,
+        "name": "Av. De La Feria (urbanización Los Geranios)",
+        "lat": 28.10677982,
+        "lon": -15.44715777
+    },
+    {
+        "id": 596,
+        "name": "Hebrón, 2",
+        "lat": 28.10436964,
+        "lon": -15.46920083
+    },
+    {
+        "id": 597,
+        "name": "Archivero Joaquín Blanco Montesdeoca, Frente 3",
+        "lat": 28.11121276,
+        "lon": -15.44902018
+    },
+    {
+        "id": 598,
+        "name": "Hebrón, 24",
+        "lat": 28.10329337,
+        "lon": -15.47040944
+    },
+    {
+        "id": 599,
+        "name": "Galilea, Frente 6",
+        "lat": 28.09394067,
+        "lon": -15.48525731
+    },
+    {
+        "id": 600,
+        "name": "Ventura Doreste, 7",
+        "lat": 28.10147428,
+        "lon": -15.47229754
+    },
+    {
+        "id": 601,
+        "name": "San Andrés, Frente 6",
+        "lat": 28.09670325,
+        "lon": -15.48160749
+    },
+    {
+        "id": 602,
+        "name": "Av. De Las Petrolíferas (reina Sofía)",
+        "lat": 28.16078442,
+        "lon": -15.4073556
+    },
+    {
+        "id": 603,
+        "name": "Ctra. De Teror",
+        "lat": 28.09766274,
+        "lon": -15.48032062
+    },
+    {
+        "id": 604,
+        "name": "Las Borreras, 1",
+        "lat": 28.106592,
+        "lon": -15.450271
+    },
+    {
+        "id": 605,
+        "name": "Ciencias Básicas / Informática",
+        "lat": 28.07276171,
+        "lon": -15.45190456
+    },
+    {
+        "id": 606,
+        "name": "Archivero Joaquín Blanco Montesdeoca, 3",
+        "lat": 28.11111083,
+        "lon": -15.44941125
+    },
+    {
+        "id": 607,
+        "name": "Real Del Castillo (hospital Juan Carlos I)",
+        "lat": 28.10272338,
+        "lon": -15.42396032
+    },
+    {
+        "id": 608,
+        "name": "Av. De La Feria (urbanización Los Geranios)",
+        "lat": 28.10673489,
+        "lon": -15.44702843
+    },
+    {
+        "id": 609,
+        "name": "Nelson Mandela (acceso)",
+        "lat": 28.16329692,
+        "lon": -15.40510719
+    },
+    {
+        "id": 610,
+        "name": "Alicante (c.s. San José)",
+        "lat": 28.09261832,
+        "lon": -15.41386382
+    },
+    {
+        "id": 611,
+        "name": "San José Artesano, 46",
+        "lat": 28.08363953,
+        "lon": -15.44478491
+    },
+    {
+        "id": 612,
+        "name": "Ciencias Básicas / Teología",
+        "lat": 28.07254928,
+        "lon": -15.451682
+    },
+    {
+        "id": 613,
+        "name": "Ctra. Lomo Blanco, 54",
+        "lat": 28.07993757,
+        "lon": -15.44743423
+    },
+    {
+        "id": 614,
+        "name": "Nueva, 73",
+        "lat": 28.09561363,
+        "lon": -15.43181682
+    },
+    {
+        "id": 615,
+        "name": "Real Del Castillo (sierra Nevada)",
+        "lat": 28.10214904,
+        "lon": -15.42286773
+    },
+    {
+        "id": 616,
+        "name": "Nelson Mandela (salida)",
+        "lat": 28.16350391,
+        "lon": -15.40548006
+    },
+    {
+        "id": 617,
+        "name": "Av. De La Feria (infecar)",
+        "lat": 28.10650176,
+        "lon": -15.44489934
+    },
+    {
+        "id": 618,
+        "name": "Galilea, 8",
+        "lat": 28.09394774,
+        "lon": -15.48532654
+    },
+    {
+        "id": 619,
+        "name": "Ctra. De Almatriche, Frente 95",
+        "lat": 28.08821273,
+        "lon": -15.45921457
+    },
+    {
+        "id": 620,
+        "name": "San Andrés, 6",
+        "lat": 28.096927,
+        "lon": -15.481765
+    },
+    {
+        "id": 621,
+        "name": "Aconcagua, 38",
+        "lat": 28.09175293,
+        "lon": -15.44561027
+    },
+    {
+        "id": 622,
+        "name": "Ctra. De Teror, 16",
+        "lat": 28.0977867,
+        "lon": -15.48008504
+    },
+    {
+        "id": 623,
+        "name": "San Andrés, 39",
+        "lat": 28.09494947,
+        "lon": -15.48196495
+    },
+    {
+        "id": 624,
+        "name": "Pintor Felo Monzón (frente Hipercor)",
+        "lat": 28.095408,
+        "lon": -15.45576
+    },
+    {
+        "id": 625,
+        "name": "Ctra. Del Centro (antigua Cárcel)",
+        "lat": 28.09343,
+        "lon": -15.425415
+    },
+    {
+        "id": 626,
+        "name": "Castillo, 16",
+        "lat": 28.099501,
+        "lon": -15.41753469
+    },
+    {
+        "id": 627,
+        "name": "Las Borreras, 10",
+        "lat": 28.1071672,
+        "lon": -15.45290081
+    },
+    {
+        "id": 628,
+        "name": "Av. De Las Petrolíferas (reina Sofía)",
+        "lat": 28.16100866,
+        "lon": -15.40743164
+    },
+    {
+        "id": 629,
+        "name": "Las Borreras, Frente 1",
+        "lat": 28.10669135,
+        "lon": -15.45022259
+    },
+    {
+        "id": 630,
+        "name": "Orinoco",
+        "lat": 28.09240859,
+        "lon": -15.44421175
+    },
+    {
+        "id": 631,
+        "name": "San Fernando, 38",
+        "lat": 28.094171,
+        "lon": -15.483374
+    },
+    {
+        "id": 632,
+        "name": "Beni",
+        "lat": 28.15363103,
+        "lon": -15.41819719
+    },
+    {
+        "id": 633,
+        "name": "Amurga (ctra. San Juan De Dios)",
+        "lat": 28.07776493,
+        "lon": -15.42736762
+    },
+    {
+        "id": 634,
+        "name": "Eufemiano Jurado (juzgados)",
+        "lat": 28.09466289,
+        "lon": -15.41355416
+    },
+    {
+        "id": 635,
+        "name": "Fondos De Segura, Frente 17",
+        "lat": 28.10916323,
+        "lon": -15.45309508
+    },
+    {
+        "id": 636,
+        "name": "Pintor Felo Monzón, 37",
+        "lat": 28.09810961,
+        "lon": -15.4545687
+    },
+    {
+        "id": 637,
+        "name": "Pintor Felo Monzón, 28",
+        "lat": 28.10444394,
+        "lon": -15.45278578
+    },
+    {
+        "id": 638,
+        "name": "Pintor Felo Monzón, 29",
+        "lat": 28.10080625,
+        "lon": -15.45337326
+    },
+    {
+        "id": 639,
+        "name": "Profesor Lozano (catamarca)",
+        "lat": 28.15437676,
+        "lon": -15.42088955
+    },
+    {
+        "id": 640,
+        "name": "Eufemiano Jurado (reyes Católicos)",
+        "lat": 28.09602409,
+        "lon": -15.41454396
+    },
+    {
+        "id": 641,
+        "name": "Profesor Lozano (rotonda Arequipa)",
+        "lat": 28.15597359,
+        "lon": -15.42037056
+    },
+    {
+        "id": 642,
+        "name": "Alc. J. Ramírez Bethencourt (parque Romano)",
+        "lat": 28.12609813,
+        "lon": -15.42801724
+    },
+    {
+        "id": 643,
+        "name": "Sabino Berthelot, 26",
+        "lat": 28.078484,
+        "lon": -15.422496
+    },
+    {
+        "id": 644,
+        "name": "Córdoba (bomberos Vegueta)",
+        "lat": 28.09487132,
+        "lon": -15.41543186
+    },
+    {
+        "id": 645,
+        "name": "Alicante (c.s. San José)",
+        "lat": 28.09244284,
+        "lon": -15.41375051
+    },
+    {
+        "id": 646,
+        "name": "Catamarca, Frente 2",
+        "lat": 28.15240226,
+        "lon": -15.41862534
+    },
+    {
+        "id": 647,
+        "name": "Concepción Arenal",
+        "lat": 28.13342263,
+        "lon": -15.43496354
+    },
+    {
+        "id": 648,
+        "name": "Profesor Lozano, 34",
+        "lat": 28.15628312,
+        "lon": -15.42011735
+    },
+    {
+        "id": 649,
+        "name": "Carretera Del Centro (ramón Y Cajal)",
+        "lat": 28.09855981,
+        "lon": -15.41952926
+    },
+    {
+        "id": 650,
+        "name": "Sabino Berthelot, 39",
+        "lat": 28.07836047,
+        "lon": -15.42265652
+    },
+    {
+        "id": 651,
+        "name": "Amurga (el Lasso, Bloque 1)",
+        "lat": 28.07444052,
+        "lon": -15.42920846
+    },
+    {
+        "id": 652,
+        "name": "Pío Xii (alejandro Hidalgo)",
+        "lat": 28.12203696,
+        "lon": -15.43029932
+    },
+    {
+        "id": 653,
+        "name": "Párroco Villar Reina (pº De Chil)",
+        "lat": 28.118301,
+        "lon": -15.42999978
+    },
+    {
+        "id": 655,
+        "name": "Guantánamo, Frente 121",
+        "lat": 28.06043506,
+        "lon": -15.42779674
+    },
+    {
+        "id": 656,
+        "name": "Amurga (acceso A Los Granjeros)",
+        "lat": 28.07434026,
+        "lon": -15.42920045
+    },
+    {
+        "id": 657,
+        "name": "Guantánamo, 108",
+        "lat": 28.05962546,
+        "lon": -15.43021447
+    },
+    {
+        "id": 658,
+        "name": "Amurga (carretera San Juan De Dios)",
+        "lat": 28.07748775,
+        "lon": -15.42753163
+    },
+    {
+        "id": 659,
+        "name": "Lomo Del Capón",
+        "lat": 28.05461416,
+        "lon": -15.44739407
+    },
+    {
+        "id": 660,
+        "name": "Marianao, Frente 82",
+        "lat": 28.06089536,
+        "lon": -15.43013769
+    },
+    {
+        "id": 661,
+        "name": "Galilea, 31",
+        "lat": 28.09235342,
+        "lon": -15.48558908
+    },
+    {
+        "id": 662,
+        "name": "Guantánamo, 115",
+        "lat": 28.06047293,
+        "lon": -15.42745696
+    },
+    {
+        "id": 663,
+        "name": "Hoya Del Enamorado (ies José Saramago)",
+        "lat": 28.10762163,
+        "lon": -15.44858877
+    },
+    {
+        "id": 664,
+        "name": "Guantánamo, 165",
+        "lat": 28.05956861,
+        "lon": -15.43014485
+    },
+    {
+        "id": 665,
+        "name": "Judas Tadeo (barranquillo)",
+        "lat": 28.09091313,
+        "lon": -15.48514483
+    },
+    {
+        "id": 666,
+        "name": "Parque Tecnológico",
+        "lat": 28.079484,
+        "lon": -15.453412
+    },
+    {
+        "id": 667,
+        "name": "C/ Real Del Castillo",
+        "lat": 28.105079650878906,
+        "lon": -15.423126220703125
+    },
+    {
+        "id": 668,
+        "name": "Arquitecto Laureano Arroyo, Frente 153",
+        "lat": 28.05898325,
+        "lon": -15.44538206
+    },
+    {
+        "id": 669,
+        "name": "C/ Real Del Castillo (san Nicolás)",
+        "lat": 28.10381507873535,
+        "lon": -15.421775817871094
+    },
+    {
+        "id": 670,
+        "name": "Hoya Del Enamorado (ies José Saramago)",
+        "lat": 28.10764961,
+        "lon": -15.44871867
+    },
+    {
+        "id": 671,
+        "name": "C/ Sierra Nevada, Frente 44",
+        "lat": 28.10244369506836,
+        "lon": -15.420878410339355
+    },
+    {
+        "id": 672,
+        "name": "Judas Tadeo, 34",
+        "lat": 28.09109443,
+        "lon": -15.48293958
+    },
+    {
+        "id": 673,
+        "name": "Guantánamo (centro P. Salto Del Negro)",
+        "lat": 28.05927698,
+        "lon": -15.43221207
+    },
+    {
+        "id": 674,
+        "name": "Guantánamo, 215",
+        "lat": 28.05921781,
+        "lon": -15.43205363
+    },
+    {
+        "id": 675,
+        "name": "Isla De La Graciosa, Frente 72",
+        "lat": 28.0574228,
+        "lon": -15.44313758
+    },
+    {
+        "id": 676,
+        "name": "Arquitecto Laureano Arroyo, 102 B",
+        "lat": 28.05897973,
+        "lon": -15.44740941
+    },
+    {
+        "id": 677,
+        "name": "Isla De La Graciosa, Frente 42",
+        "lat": 28.05671423,
+        "lon": -15.4447405
+    },
+    {
+        "id": 678,
+        "name": "Arquitecto Laureano Arroyo, 64",
+        "lat": 28.05802328,
+        "lon": -15.45020791
+    },
+    {
+        "id": 679,
+        "name": "Isla De La Graciosa, 41",
+        "lat": 28.05603648,
+        "lon": -15.44585545
+    },
+    {
+        "id": 680,
+        "name": "Judas Tadeo (barranquillo)",
+        "lat": 28.09082338,
+        "lon": -15.48519218
+    },
+    {
+        "id": 681,
+        "name": "Arquitecto José Luis Jiménez, 3",
+        "lat": 28.05647575,
+        "lon": -15.44836105
+    },
+    {
+        "id": 682,
+        "name": "Biblioteca Universitaria",
+        "lat": 28.07562612,
+        "lon": -15.45171712
+    },
+    {
+        "id": 683,
+        "name": "Arquitecto Laureano Arroyo, 80",
+        "lat": 28.058341,
+        "lon": -15.449411
+    },
+    {
+        "id": 684,
+        "name": "Alameda De Colón",
+        "lat": 28.10281451,
+        "lon": -15.41650267
+    },
+    {
+        "id": 685,
+        "name": "Isla De Montaña Clara, Frente 5",
+        "lat": 28.05536614,
+        "lon": -15.44666535
+    },
+    {
+        "id": 686,
+        "name": "Bernardino Correa Viera (c.s. Triana)",
+        "lat": 28.10115824,
+        "lon": -15.41856073
+    },
+    {
+        "id": 687,
+        "name": "Arquitecto Laureano Arroyo, 73",
+        "lat": 28.05801468,
+        "lon": -15.45040246
+    },
+    {
+        "id": 688,
+        "name": "Biblioteca Universitaria",
+        "lat": 28.07560663,
+        "lon": -15.45203463
+    },
+    {
+        "id": 690,
+        "name": "Aulario Ciencias Jurídicas",
+        "lat": 28.07808621,
+        "lon": -15.44945454
+    },
+    {
+        "id": 691,
+        "name": "Ciencias Jurídicas (módulo B)",
+        "lat": 28.07812217,
+        "lon": -15.44924846
+    },
+    {
+        "id": 692,
+        "name": "Tablero De Gonzalo, Frente 7",
+        "lat": 28.05771786,
+        "lon": -15.43917275
+    },
+    {
+        "id": 693,
+        "name": "Judas Tadeo, 36",
+        "lat": 28.09112199,
+        "lon": -15.48354604
+    },
+    {
+        "id": 694,
+        "name": "Miguel Martín Fernández De La Torre (centro De Menores)",
+        "lat": 28.05780926,
+        "lon": -15.4417734
+    },
+    {
+        "id": 695,
+        "name": "Manzanilla, Frente 14",
+        "lat": 28.10999741,
+        "lon": -15.45251217
+    },
+    {
+        "id": 696,
+        "name": "Tunerillas, Frente 20",
+        "lat": 28.09556838,
+        "lon": -15.44956316
+    },
+    {
+        "id": 697,
+        "name": "Dr. Marañón",
+        "lat": 28.10526809,
+        "lon": -15.43977113
+    },
+    {
+        "id": 698,
+        "name": "Pintor Felo Monzón, 17",
+        "lat": 28.10639046,
+        "lon": -15.45195683
+    },
+    {
+        "id": 699,
+        "name": "Tablero De Gonzalo",
+        "lat": 28.05774264,
+        "lon": -15.43939416
+    },
+    {
+        "id": 700,
+        "name": "Pintor Felo Monzón, 25",
+        "lat": 28.10288015,
+        "lon": -15.45280084
+    },
+    {
+        "id": 701,
+        "name": "César Manrique, 88",
+        "lat": 28.09950811,
+        "lon": -15.47030666
+    },
+    {
+        "id": 702,
+        "name": "Av. De Ansite (cementerio Del Puerto)",
+        "lat": 28.12374403,
+        "lon": -15.43849903
+    },
+    {
+        "id": 703,
+        "name": "Av. De Ansite (cementerio Del Puerto)",
+        "lat": 28.123911,
+        "lon": -15.438582
+    },
+    {
+        "id": 704,
+        "name": "Pintor Felo Monzón (hoya De La Gallina)",
+        "lat": 28.09538092,
+        "lon": -15.4561547
+    },
+    {
+        "id": 705,
+        "name": "Hospital Dr. Negrín (hospitalización)",
+        "lat": 28.120947,
+        "lon": -15.443208
+    },
+    {
+        "id": 706,
+        "name": "Hospital Dr. Negrín (acceso Principal)",
+        "lat": 28.12056169,
+        "lon": -15.4434989
+    },
+    {
+        "id": 707,
+        "name": "Emilio Ley",
+        "lat": 28.12178234,
+        "lon": -15.42999677
+    },
+    {
+        "id": 708,
+        "name": "Juan Carlos I (rotonda Hospital Dr. Negrín)",
+        "lat": 28.11967626,
+        "lon": -15.44297458
+    },
+    {
+        "id": 709,
+        "name": "Ctra. San Juan De Dios (guincho)",
+        "lat": 28.07394523,
+        "lon": -15.42670652
+    },
+    {
+        "id": 710,
+        "name": "Sta. Luisa De Marillac",
+        "lat": 28.10487854,
+        "lon": -15.43431846
+    },
+    {
+        "id": 711,
+        "name": "Pardela, 14",
+        "lat": 28.07345541,
+        "lon": -15.42917868
+    },
+    {
+        "id": 712,
+        "name": "Mimosa",
+        "lat": 28.11273969,
+        "lon": -15.4524232
+    },
+    {
+        "id": 713,
+        "name": "C/ Gavilan (residencial Los Granjeros)",
+        "lat": 28.075878143310547,
+        "lon": -15.419431686401367
+    },
+    {
+        "id": 714,
+        "name": "Ciencias Básicas",
+        "lat": 28.073407,
+        "lon": -15.4527805
+    },
+    {
+        "id": 715,
+        "name": "Ctra. San Juan De Dios (guincho)",
+        "lat": 28.07385293,
+        "lon": -15.4271573
+    },
+    {
+        "id": 717,
+        "name": "Mimosa",
+        "lat": 28.11243404,
+        "lon": -15.45251268
+    },
+    {
+        "id": 719,
+        "name": "Pico Viento",
+        "lat": 28.077104,
+        "lon": -15.44457391
+    },
+    {
+        "id": 720,
+        "name": "Hoya De La Gallina (cementerio De San Lázaro)",
+        "lat": 28.09741284,
+        "lon": -15.45821731
+    },
+    {
+        "id": 721,
+        "name": "Pintor Felo Monzón, 22",
+        "lat": 28.10633776,
+        "lon": -15.45232903
+    },
+    {
+        "id": 722,
+        "name": "Mariucha (canódromo)",
+        "lat": 28.11106431,
+        "lon": -15.43444884
+    },
+    {
+        "id": 723,
+        "name": "Pintor Felo Monzón, 38",
+        "lat": 28.10077655,
+        "lon": -15.45376994
+    },
+    {
+        "id": 724,
+        "name": "César Manrique, 3",
+        "lat": 28.09780817,
+        "lon": -15.46847127
+    },
+    {
+        "id": 725,
+        "name": "Pintor Felo Monzón (c.c. Siete Palmas)",
+        "lat": 28.09772358,
+        "lon": -15.45510951
+    },
+    {
+        "id": 726,
+        "name": "Judas Tadeo, 66",
+        "lat": 28.09041905,
+        "lon": -15.48154274
+    },
+    {
+        "id": 728,
+        "name": "César Manrique, Frente 102",
+        "lat": 28.09991275,
+        "lon": -15.47115522
+    },
+    {
+        "id": 729,
+        "name": "Avda. 8 De Marzo (c.c. Alisios)",
+        "lat": 28.09439326,
+        "lon": -15.47819019
+    },
+    {
+        "id": 730,
+        "name": "Galilea, 60",
+        "lat": 28.09135773,
+        "lon": -15.48584761
+    },
+    {
+        "id": 731,
+        "name": "Ingenierías",
+        "lat": 28.07069336,
+        "lon": -15.455163
+    },
+    {
+        "id": 732,
+        "name": "Avda. 8 De Marzo (c.c. Alisios)",
+        "lat": 28.09465426,
+        "lon": -15.47803803
+    },
+    {
+        "id": 733,
+        "name": "César Manrique, 12",
+        "lat": 28.09800545,
+        "lon": -15.46837286
+    },
+    {
+        "id": 734,
+        "name": "Base Naval",
+        "lat": 28.13457771,
+        "lon": -15.42932705
+    },
+    {
+        "id": 735,
+        "name": "Judas Tadeo, 61",
+        "lat": 28.09046048,
+        "lon": -15.4814769
+    },
+    {
+        "id": 736,
+        "name": "Pintor Felo Monzón (hipercor)",
+        "lat": 28.09522866,
+        "lon": -15.45622846
+    },
+    {
+        "id": 738,
+        "name": "Serventía, 145",
+        "lat": 28.08894276,
+        "lon": -15.4601483
+    },
+    {
+        "id": 739,
+        "name": "Plutón, Frente 14",
+        "lat": 28.0950246,
+        "lon": -15.46196179
+    },
+    {
+        "id": 740,
+        "name": "Ctra. De Almatriche (fábrica De Tejas)",
+        "lat": 28.09334853,
+        "lon": -15.4597893
+    },
+    {
+        "id": 741,
+        "name": "Leopoldo Alonso, 5",
+        "lat": 28.1178504,
+        "lon": -15.44337448
+    },
+    {
+        "id": 742,
+        "name": "Ctra. De Almatriche (gasolinera)",
+        "lat": 28.09092323,
+        "lon": -15.45940072
+    },
+    {
+        "id": 743,
+        "name": "Ctra. De Almatriche, 20",
+        "lat": 28.09277944,
+        "lon": -15.45986288
+    },
+    {
+        "id": 744,
+        "name": "Ctra. De Almatriche",
+        "lat": 28.08938852,
+        "lon": -15.45920485
+    },
+    {
+        "id": 745,
+        "name": "Ctra. De Almatriche, Frente 47",
+        "lat": 28.09073333,
+        "lon": -15.4595
+    },
+    {
+        "id": 746,
+        "name": "Ctra. De Almatriche, 135",
+        "lat": 28.08521178,
+        "lon": -15.45957353
+    },
+    {
+        "id": 747,
+        "name": "Ctra. De Almatriche, Frente 71",
+        "lat": 28.08951965,
+        "lon": -15.45933551
+    },
+    {
+        "id": 748,
+        "name": "Ctra. De Almatriche, 169",
+        "lat": 28.08351637,
+        "lon": -15.46155443
+    },
+    {
+        "id": 749,
+        "name": "Serventía, 189",
+        "lat": 28.09082952,
+        "lon": -15.46031578
+    },
+    {
+        "id": 750,
+        "name": "Ctra. De Almatriche, 259",
+        "lat": 28.08024742,
+        "lon": -15.46174361
+    },
+    {
+        "id": 751,
+        "name": "Serventía, 101",
+        "lat": 28.086697,
+        "lon": -15.459606
+    },
+    {
+        "id": 752,
+        "name": "Ctra. De San Lorenzo, 400",
+        "lat": 28.07777485,
+        "lon": -15.46251115
+    },
+    {
+        "id": 753,
+        "name": "Serventía, 85",
+        "lat": 28.08796343,
+        "lon": -15.46017485
+    },
+    {
+        "id": 754,
+        "name": "Camilo Martinón Navarro, 3",
+        "lat": 28.07652896,
+        "lon": -15.46357315
+    },
+    {
+        "id": 756,
+        "name": "Camilo Martinón Navarro, Frente 32",
+        "lat": 28.07466924,
+        "lon": -15.46391156
+    },
+    {
+        "id": 757,
+        "name": "Plutón (ceip Hoya Andrea)",
+        "lat": 28.09250116,
+        "lon": -15.46199656
+    },
+    {
+        "id": 758,
+        "name": "Camilo Martinón Navarro, 69",
+        "lat": 28.07463111,
+        "lon": -15.46513073
+    },
+    {
+        "id": 759,
+        "name": "Ctra. De San Lorenzo, 230",
+        "lat": 28.0766,
+        "lon": -15.47835
+    },
+    {
+        "id": 760,
+        "name": "Centro Deportivo San Lorenzo",
+        "lat": 28.07355765,
+        "lon": -15.46827426
+    },
+    {
+        "id": 762,
+        "name": "L. Suárez Rivero, 22",
+        "lat": 28.07610753,
+        "lon": -15.4725813
+    },
+    {
+        "id": 763,
+        "name": "Ctra. Nueva De San Lorenzo (gasolinera)",
+        "lat": 28.0932659,
+        "lon": -15.4779871
+    },
+    {
+        "id": 764,
+        "name": "Ctra. De San Lorenzo, 282",
+        "lat": 28.07577066,
+        "lon": -15.47392389
+    },
+    {
+        "id": 765,
+        "name": "Ctra. De San Lorenzo, 120",
+        "lat": 28.08828816,
+        "lon": -15.47887024
+    },
+    {
+        "id": 766,
+        "name": "Olivo (carretera De Almatriche)",
+        "lat": 28.09386093,
+        "lon": -15.45900223
+    },
+    {
+        "id": 767,
+        "name": "Ctra. De San Lorenzo, 154",
+        "lat": 28.08581685,
+        "lon": -15.47891058
+    },
+    {
+        "id": 768,
+        "name": "Habana, 27",
+        "lat": 28.12935,
+        "lon": -15.439592
+    },
+    {
+        "id": 769,
+        "name": "Ctra. De San Lorenzo, 188",
+        "lat": 28.08149239,
+        "lon": -15.47816039
+    },
+    {
+        "id": 770,
+        "name": "Pintor Juan Guillermo, Frente 19",
+        "lat": 28.12753066,
+        "lon": -15.43765411
+    },
+    {
+        "id": 771,
+        "name": "Ctra. De San Lorenzo, 254",
+        "lat": 28.07633899,
+        "lon": -15.47647459
+    },
+    {
+        "id": 772,
+        "name": "Pintor Juan Guillermo (c.c. La Minilla)",
+        "lat": 28.12556023,
+        "lon": -15.43871993
+    },
+    {
+        "id": 773,
+        "name": "Leopoldo Alonso",
+        "lat": 28.11806562,
+        "lon": -15.44360396
+    },
+    {
+        "id": 774,
+        "name": "Dña. Juana Marrero, 11",
+        "lat": 28.10765133,
+        "lon": -15.46202826
+    },
+    {
+        "id": 775,
+        "name": "Olivo (ctra. De Almatriche)",
+        "lat": 28.094044,
+        "lon": -15.45892
+    },
+    {
+        "id": 776,
+        "name": "Dña. Juana Marrero, 61",
+        "lat": 28.108219,
+        "lon": -15.463065
+    },
+    {
+        "id": 777,
+        "name": "Habana, 28",
+        "lat": 28.129238,
+        "lon": -15.439778
+    },
+    {
+        "id": 778,
+        "name": "Cuesta Blanca, 9",
+        "lat": 28.094748,
+        "lon": -15.460491
+    },
+    {
+        "id": 779,
+        "name": "García Lorca, Frente 14",
+        "lat": 28.12791265,
+        "lon": -15.43881179
+    },
+    {
+        "id": 780,
+        "name": "Cuesta Blanca, 41",
+        "lat": 28.09286381,
+        "lon": -15.46101353
+    },
+    {
+        "id": 781,
+        "name": "Dña. Juana Marrero, Frente 11",
+        "lat": 28.10759041,
+        "lon": -15.46149909
+    },
+    {
+        "id": 782,
+        "name": "Juan Manuel Durán González (galicia)",
+        "lat": 28.13543771,
+        "lon": -15.43302209
+    },
+    {
+        "id": 783,
+        "name": "Dña. Juana Marrero, 70",
+        "lat": 28.10829807,
+        "lon": -15.46345084
+    },
+    {
+        "id": 784,
+        "name": "San Cristóbal (iglesia)",
+        "lat": 28.07748558,
+        "lon": -15.41535839
+    },
+    {
+        "id": 785,
+        "name": "Miller Industrial",
+        "lat": 28.09802338,
+        "lon": -15.44354914
+    },
+    {
+        "id": 786,
+        "name": "Ctra. Subida A Tafira (la Favorita)",
+        "lat": 28.084836,
+        "lon": -15.436839
+    },
+    {
+        "id": 787,
+        "name": "Ctra. Pico Viento (asilo De Ancianos)",
+        "lat": 28.07419571,
+        "lon": -15.44696752
+    },
+    {
+        "id": 788,
+        "name": "Ctra. Pico Viento (asilo De Ancianos)",
+        "lat": 28.073996,
+        "lon": -15.44680829
+    },
+    {
+        "id": 789,
+        "name": "García Lorca, 17",
+        "lat": 28.12521295,
+        "lon": -15.44032022
+    },
+    {
+        "id": 790,
+        "name": "Ctra. Del Centro (barrio Quilmes, 3)",
+        "lat": 28.07153857,
+        "lon": -15.44987647
+    },
+    {
+        "id": 791,
+        "name": "Lázaro De Ortega (ciudad Del Campo)",
+        "lat": 28.09189704,
+        "lon": -15.47863834
+    },
+    {
+        "id": 792,
+        "name": "Ciudad Deportiva Gran Canaria",
+        "lat": 28.07640985,
+        "lon": -15.41742077
+    },
+    {
+        "id": 793,
+        "name": "Lázaro De Ortega, 39",
+        "lat": 28.09020335,
+        "lon": -15.47941887
+    },
+    {
+        "id": 794,
+        "name": "Pico Viento",
+        "lat": 28.07721826,
+        "lon": -15.44400068
+    },
+    {
+        "id": 795,
+        "name": "Cuesta Blanca, Frente 11",
+        "lat": 28.09462127,
+        "lon": -15.46060914
+    },
+    {
+        "id": 796,
+        "name": "Hoya De La Plata",
+        "lat": 28.06956459,
+        "lon": -15.41802669
+    },
+    {
+        "id": 797,
+        "name": "Cuesta Blanca, 34",
+        "lat": 28.093677,
+        "lon": -15.461159
+    },
+    {
+        "id": 798,
+        "name": "Mesa Y López (base Naval)",
+        "lat": 28.13482012,
+        "lon": -15.429636
+    },
+    {
+        "id": 799,
+        "name": "Tomás Morales, 4",
+        "lat": 28.10835861,
+        "lon": -15.42063558
+    },
+    {
+        "id": 892,
+        "name": "C/ Salamanca, 171 (pedro Hidalgo)",
+        "lat": 28.067384719848633,
+        "lon": -15.429117202758789
+    },
+    {
+        "id": 894,
+        "name": "Hospital Dr. Negrín (consultas Externas)",
+        "lat": 28.11919658,
+        "lon": -15.44455043
+    },
+    {
+        "id": 895,
+        "name": "Mercado De Vegueta",
+        "lat": 28.10286774,
+        "lon": -15.41337617
+    },
+    {
+        "id": 897,
+        "name": "Hospital Juan Carlos I",
+        "lat": 28.1031688,
+        "lon": -15.4229514
+    },
+    {
+        "id": 898,
+        "name": "Ingenierías",
+        "lat": 28.07145031,
+        "lon": -15.45535628
+    },
+    {
+        "id": 899,
+        "name": "Manuel Becerra (puerto)",
+        "lat": 28.14991155,
+        "lon": -15.4220174
+    },
+    {
+        "id": 900,
+        "name": "Parada Especial Carnaval",
+        "lat": 28.15435791015625,
+        "lon": -15.41651439666748
+    },
+    {
+        "id": 903,
+        "name": "Carretera De Lomo Blanco, Frente 51",
+        "lat": 28.08197784423828,
+        "lon": -15.447046279907227
+    },
+    {
+        "id": 922,
+        "name": "Teatro",
+        "lat": 28.10461855,
+        "lon": -15.41332278
+    },
+    {
+        "id": 927,
+        "name": "Auditorio",
+        "lat": 28.129682540893555,
+        "lon": -15.448033332824707
+    },
+    {
+        "id": 928,
+        "name": "Hoya De La Plata",
+        "lat": 28.06973169,
+        "lon": -15.41814313
+    },
+    {
+        "id": 929,
+        "name": "Ctra. Del Norte (c.c. La Ballena)",
+        "lat": 28.10030155,
+        "lon": -15.44238127
+    },
+    {
+        "id": 930,
+        "name": "Teatro",
+        "lat": 28.10434974,
+        "lon": -15.41371831
+    },
+    {
+        "id": 931,
+        "name": "Manuel Becerra (puerto)",
+        "lat": 28.15009022,
+        "lon": -15.42181374
+    },
+    {
+        "id": 932,
+        "name": "Teatro",
+        "lat": 28.10457272,
+        "lon": -15.41369052
+    },
+    {
+        "id": 933,
+        "name": "Hoya De La Plata",
+        "lat": 28.06956459,
+        "lon": -15.41802669
+    },
+    {
+        "id": 934,
+        "name": "Hoya De La Plata",
+        "lat": 28.06973839,
+        "lon": -15.41803838
+    },
+    {
+        "id": 935,
+        "name": "Manuel Becerra (puerto)",
+        "lat": 28.15000855,
+        "lon": -15.42225443
+    },
+    {
+        "id": 936,
+        "name": "Tres Palmas",
+        "lat": 28.06985503,
+        "lon": -15.42283358
+    },
+    {
+        "id": 938,
+        "name": "Teatro",
+        "lat": 28.10462565,
+        "lon": -15.41354802
+    },
+    {
+        "id": 939,
+        "name": "Auditorio",
+        "lat": 28.12972943,
+        "lon": -15.4478039
+    },
+    {
+        "id": 940,
+        "name": "Guiniguada",
+        "lat": 28.10067908,
+        "lon": -15.41908018
+    },
+    {
+        "id": 941,
+        "name": "Manuel Becerra (puerto)",
+        "lat": 28.15004028,
+        "lon": -15.42200548
+    },
+    {
+        "id": 942,
+        "name": "Intercambiador Santa Catalina",
+        "lat": 28.14016507,
+        "lon": -15.428478
+    },
+    {
+        "id": 943,
+        "name": "Doctor Juan Domínguez Pérez (el Sebadal)",
+        "lat": 28.16149456,
+        "lon": -15.41070618
+    },
+    {
+        "id": 944,
+        "name": "Manuel Becerra (puerto)",
+        "lat": 28.15025905,
+        "lon": -15.42169313
+    },
+    {
+        "id": 945,
+        "name": "Juan Carlos I (hospital Dr. Negrín)",
+        "lat": 28.11892357,
+        "lon": -15.44438518
+    },
+    {
+        "id": 946,
+        "name": "Intercambiador Santa Catalina",
+        "lat": 28.13972435,
+        "lon": -15.42866656
+    },
+    {
+        "id": 947,
+        "name": "Manuel Becerra (puerto)",
+        "lat": 28.15028749,
+        "lon": -15.42150525
+    },
+    {
+        "id": 948,
+        "name": "Guiniguada",
+        "lat": 28.10058802,
+        "lon": -15.41903192
+    },
+    {
+        "id": 949,
+        "name": "Manuel De Falla, Frente 56",
+        "lat": 28.08960994,
+        "lon": -15.45161263
+    },
+    {
+        "id": 950,
+        "name": "Auditorio",
+        "lat": 28.12969599,
+        "lon": -15.4480721
+    },
+    {
+        "id": 951,
+        "name": "Residencias (campus Universitario)",
+        "lat": 28.07958689,
+        "lon": -15.45252335
+    },
+    {
+        "id": 952,
+        "name": "Archivero Joaquín Blanco Montesdeoca (rtda. Nicolás Díaz Chico)",
+        "lat": 28.11459034,
+        "lon": -15.45479426
+    },
+    {
+        "id": 953,
+        "name": "Manuel Becerra (puerto)",
+        "lat": 28.15020789,
+        "lon": -15.42201479
+    },
+    {
+        "id": 954,
+        "name": "Teatro",
+        "lat": 28.10468283,
+        "lon": -15.41343537
+    },
+    {
+        "id": 955,
+        "name": "Auditorio",
+        "lat": 28.12964723,
+        "lon": -15.44782937
+    },
+    {
+        "id": 957,
+        "name": "Semana De La Pasión, 13 (las Coloradas)",
+        "lat": 28.16599565,
+        "lon": -15.43529452
+    },
+    {
+        "id": 958,
+        "name": "Intercambiador Santa Catalina",
+        "lat": 28.13980378,
+        "lon": -15.42866536
+    },
+    {
+        "id": 959,
+        "name": "Judas Tadeo (isla Perdida)",
+        "lat": 28.08957552,
+        "lon": -15.48083269
+    },
+    {
+        "id": 960,
+        "name": "Intercambiador Santa Catalina",
+        "lat": 28.13963024,
+        "lon": -15.42862974
+    },
+    {
+        "id": 961,
+        "name": "Ind. José Sánchez Peñate (c.c. Las Arenas)",
+        "lat": 28.12836942,
+        "lon": -15.44727828
+    },
+    {
+        "id": 962,
+        "name": "Intercambiador Santa Catalina",
+        "lat": 28.13953081,
+        "lon": -15.42857164
+    },
+    {
+        "id": 963,
+        "name": "Hospital Dr. Negrín (consultas Externas)",
+        "lat": 28.11919562,
+        "lon": -15.44458487
+    },
+    {
+        "id": 964,
+        "name": "Nelson Mandela (armas)",
+        "lat": 28.16351796,
+        "lon": -15.39992752
+    },
+    {
+        "id": 965,
+        "name": "Manuel Becerra (puerto)",
+        "lat": 28.15014089,
+        "lon": -15.42153144
+    },
+    {
+        "id": 966,
+        "name": "Intercambiador De Tamaraceite",
+        "lat": 28.09874699,
+        "lon": -15.47938913
+    },
+    {
+        "id": 968,
+        "name": "Campus Universitario (ingenierías)",
+        "lat": 28.07111151,
+        "lon": -15.4553219
+    },
+    {
+        "id": 969,
+        "name": "Teatro",
+        "lat": 28.10442562,
+        "lon": -15.41324386
+    },
+    {
+        "id": 970,
+        "name": "Leonardo Torriani (zárate)",
+        "lat": 28.07906443,
+        "lon": -15.42227448
+    },
+    {
+        "id": 971,
+        "name": "Pintor Felo Monzón (hipercor)",
+        "lat": 28.09522866,
+        "lon": -15.45622846
+    },
+    {
+        "id": 972,
+        "name": "Gavilán (residencial Los Granjeros)",
+        "lat": 28.07405429,
+        "lon": -15.4284083
+    },
+    {
+        "id": 973,
+        "name": "Otoño (hoya Andrea)",
+        "lat": 28.09006667,
+        "lon": -15.46146667
+    },
+    {
+        "id": 974,
+        "name": "Salamanca (asociación De Vecinos)",
+        "lat": 28.06845451,
+        "lon": -15.42834592
+    },
+    {
+        "id": 975,
+        "name": "Batería De San Juan",
+        "lat": 28.09358484,
+        "lon": -15.42197009
+    },
+    {
+        "id": 976,
+        "name": "Teatro",
+        "lat": 28.1038306,
+        "lon": -15.41371479
+    },
+    {
+        "id": 977,
+        "name": "Paseo De La Cornisa (escaleritas)",
+        "lat": 28.12255785,
+        "lon": -15.43413311
+    },
+    {
+        "id": 978,
+        "name": "Ciudad De San Juan De Dios (el Lasso)",
+        "lat": 28.08063335,
+        "lon": -15.42498924
+    },
+    {
+        "id": 979,
+        "name": "Hoya De La Plata",
+        "lat": 28.06950326,
+        "lon": -15.41811441
+    },
+    {
+        "id": 980,
+        "name": "Arquitecto Laureano Arroyo (san Francisco De Paula)",
+        "lat": 28.05662445,
+        "lon": -15.45138764
+    },
+    {
+        "id": 982,
+        "name": "Teatro",
+        "lat": 28.10453251,
+        "lon": -15.4132845
+    },
+    {
+        "id": 983,
+        "name": "Ingenierías",
+        "lat": 28.07145031,
+        "lon": -15.45535628
+    },
+    {
+        "id": 984,
+        "name": "Teatro",
+        "lat": 28.10447065,
+        "lon": -15.41326453
+    },
+    {
+        "id": 985,
+        "name": "Arminda, 28 (el Secadero)",
+        "lat": 28.08300652,
+        "lon": -15.43900441
+    },
+    {
+        "id": 986,
+        "name": "Teatro",
+        "lat": 28.10436847,
+        "lon": -15.41322163
+    },
+    {
+        "id": 987,
+        "name": "Lomo De La Cruz",
+        "lat": 28.09084924,
+        "lon": -15.44774943
+    },
+    {
+        "id": 988,
+        "name": "Teatro",
+        "lat": 28.10427099,
+        "lon": -15.41318482
+    },
+    {
+        "id": 989,
+        "name": "Hospital Juan Carlos I",
+        "lat": 28.1031688,
+        "lon": -15.4229514
+    },
+    {
+        "id": 990,
+        "name": "Intercambiador Santa Catalina",
+        "lat": 28.13942477,
+        "lon": -15.42848762
+    },
+    {
+        "id": 991,
+        "name": "Hospital Dr. Negrín (consultas Externas)",
+        "lat": 28.11919376,
+        "lon": -15.44463653
+    },
+    {
+        "id": 992,
+        "name": "Teatro",
+        "lat": 28.1043436,
+        "lon": -15.41321091
+    },
+    {
+        "id": 993,
+        "name": "Mercado De Vegueta",
+        "lat": 28.10265634,
+        "lon": -15.41300107
+    },
+    {
+        "id": 994,
+        "name": "Intercambiador De Tamaraceite",
+        "lat": 28.09889978,
+        "lon": -15.47941264
+    },
+    {
+        "id": 995,
+        "name": "Intercambiador De Tamaraceite",
+        "lat": 28.09868097,
+        "lon": -15.47924013
+    },
+    {
+        "id": 996,
+        "name": "Eduardo Benot (parque Santa Catalina)",
+        "lat": 28.14180285,
+        "lon": -15.4300477
+    },
+    {
+        "id": 998,
+        "name": "Teatro",
+        "lat": 28.10414582,
+        "lon": -15.41329948
+    },
+    {
+        "id": 999,
+        "name": "Intercambiador Santa Catalina",
+        "lat": 28.14023147,
+        "lon": -15.42838072
+    }
+]
