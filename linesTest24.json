@@ -350,8 +350,8 @@
       "number": "X11",
       "route": "Teatro - Las Torres",
       "color": "ColorOrange",
-      "stopsFromA": [],
-      "stopsFromA_Var1": [954, 496, 281, 59, 61, 63, 65, 67, 69, 545, 403, 519, 952],
+      "stopsFromA": [954, 496, 281, 59, 61, 63, 65, 67, 69, 545, 403, 519, 952]
+      "stopsFromA_Var1": [],
       "stopsFromA_Var2": [],
       "stopsFromB": [952, 520, 518, 404, 558, 76, 74, 72, 70, 68, 536, 2, 954],
       "stopsFromB_Var1": [],
