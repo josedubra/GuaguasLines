@@ -1655,7 +1655,7 @@
       "stopsFromA_Var1": [],
       "stopsFromA_Var2": [],
       "stopsFromB": [989, 615, 350, 355, 353, 348, 330, 322, 320, 318, 536, 2, 494, 988],
-      "stopsFromB_Var1": [],
+      "stopsFromB_Var1": [989, 348, 330, 322, 320, 318, 536, 2, 494, 988],
       "stopsFromB_Var2": [],
       "stopsFromB_Var3": [],
       "timesAllYear": false,
@@ -1686,7 +1686,7 @@
       "timeTables": 2,
       "variantLegendsRouteComponent0": {
         "A": "Normal",
-        "C": "Finaliza en la parada 353 Gobernador Marín Acuña, 50"
+        "C": "Finaliza en Hospital Juan Carlos I"
       },
       "variantLegendsRouteComponent1": {
         "A": "Normal",
