@@ -1432,8 +1432,8 @@
       "number": "54",
       "route": "Teatro - San Juan",
       "color": "ColorGreen",
-      "stopsFromA": [976, 895, 71, 171, 626, 431, 433, 435, 221, 649, 553, 584, 179, 181, 183, 185, 187, 975],
-      "stopsFromA_Var1": [],
+      "stopsFromA": [976, 895, 71, 171, 626, 431, 433, 435, 221, 179, 181, 183, 185, 187, 975],
+      "stopsFromA_Var1": [976, 895, 71, 171, 626, 649, 553, 584, 179, 181, 183, 185, 187, 975],
       "stopsFromA_Var2": [],
       "stopsFromB": [975, 202, 200, 198, 223, 438, 436, 240, 686, 684, 976],
       "stopsFromB_Var1": [],
@@ -1464,8 +1464,11 @@
       "summerTimetable": false,
       "summerTimeTableNotice": "",
       "summerTimeTableBody": "",
-      "timeTables": 1,
-      "variantLegendsRouteComponent0": {},
+      "timeTables": 2,
+      "variantLegendsRouteComponent0": {
+        "A": "Normal",
+        "C": "Por Carretera del Centro"
+      },
       "variantLegendsRouteComponent1": {},
       "updated": "2025-06-23T00:16:06.000Z"
     },
